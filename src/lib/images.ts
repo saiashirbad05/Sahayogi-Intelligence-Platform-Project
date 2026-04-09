@@ -42,3 +42,88 @@ export const getUnsplashUrl = (index: number, theme: string = "General"): string
   const photoId = pool[index % pool.length];
   return `https://images.unsplash.com/photo-${photoId}?auto=format&fit=crop&q=80&w=800`;
 };
+
+const NGO_FIXED_IMAGES: Record<string, string> = {
+  'Bhumi': '/images/789/IMG-20260402-WA0001.jpg',
+  'Goonj': '/images/789/IMG-20260402-WA0009.jpg',
+  'CRY (Child Rights and You)': '/images/789/IMG-20260402-WA0002.jpg',
+  'Pehchaan The Street School': '/images/789/images%20%285%29.jpg',
+  'Smile Foundation': '/images/789/IMG-20260402-WA0026.jpg',
+  'Nanhi Kali': '/images/789/IMG-20260402-WA0021.jpg',
+  'GiveIndia Foundation': 'https://images.unsplash.com/photo-1509099836639-18ba1795216d?auto=format&fit=crop&q=80&w=800',
+  'HelpAge India': '/images/789/IMG-20260402-WA0010.jpg'
+};
+
+/**
+ * Resolves the best available image for an entity (NGO or Volunteer).
+ * Prioritizes actual images, then gallery items, then deterministic fallbacks.
+ */
+export const resolveEntityImage = (entity: any): string => {
+  if (!entity) return getUnsplashUrl(0, 'General');
+
+  const { images, image_gallery, name, id, specialty, type, is_featured } = entity;
+  
+  // 1. Check direct name-based lookup for absolute accuracy on core partners
+  if (name) {
+     const cleanName = name.toLowerCase();
+     for (const [fixedName, path] of Object.entries(NGO_FIXED_IMAGES)) {
+        if (cleanName.includes(fixedName.toLowerCase())) {
+           return path;
+        }
+     }
+  }
+
+  // 2. Keyword-based theme detection for fallback consistency
+  const getTheme = () => {
+    if (!specialty) return type === 'NGO' || type === 'NPO' ? 'Rural' : 'General';
+    const s = specialty.toLowerCase();
+    if (s.includes('edu') || s.includes('school') || s.includes('learn')) return 'Education';
+    if (s.includes('health') || s.includes('med') || s.includes('doctor')) return 'Healthcare';
+    if (s.includes('rural') || s.includes('village') || s.includes('farm')) return 'Rural';
+    return 'General';
+  };
+
+  const theme = getTheme();
+  const safeId = (id || name || '0').toString();
+  const seed = safeId.split('').reduce((acc: number, char: string) => acc + char.charCodeAt(0), 0);
+
+  // 3. Check primary images - Only trust if it's a full URL or a verified local path
+  if (images && Array.isArray(images) && images.length > 0 && typeof images[0] === 'string' && images[0].length > 5) {
+     // If it's a bulk NGO and using a generic local path, consider it suspicious and fallback to Unsplash
+     // unless it's a featured/top NGO.
+     if (safeId.startsWith('bulk-') && images[0].includes('/images/') && !is_featured) {
+        return getUnsplashUrl(seed, theme);
+     }
+     return images[0];
+  }
+
+  // 4. Check gallery
+  if (image_gallery && Array.isArray(image_gallery) && image_gallery.length > 0 && typeof image_gallery[0] === 'string' && image_gallery[0].length > 5) {
+     return image_gallery[0];
+  }
+
+  // 5. Deterministic fallback
+  return getUnsplashUrl(seed, theme);
+};
+
+export const resolveEntityLogo = (entity: any): string => {
+  if (!entity) return '/images/logo.png';
+  const { name } = entity;
+  const cleanName = name?.toLowerCase() || '';
+  
+  // Specific Logos if available
+  const LOGO_MAP: Record<string, string> = {
+    'pehchaan': '/images/789/images%20%285%29.jpg', // Pic instead of symbol
+    'bhumi': '/images/789/IMG-20260402-WA0001.jpg', 
+    'goonj': '/images/789/IMG-20260402-WA0009.jpg',
+    'cry': '/images/789/IMG-20260402-WA0002.jpg',
+    'giveindia': 'https://images.unsplash.com/photo-1509099836639-18ba1795216d?auto=format&fit=crop&q=80&w=800',
+    'helpage': '/images/789/IMG-20260402-WA0010.jpg'
+  };
+
+  for (const [key, val] of Object.entries(LOGO_MAP)) {
+    if (cleanName.includes(key)) return val;
+  }
+
+  return '';
+};

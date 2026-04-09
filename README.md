@@ -3,7 +3,7 @@
 > **"Bridging the Gap Between Silent Resilience and Global Support."**
 > 
 > ---
-> 🏆 **Built for [Build with AI Solution Challenge 2026](https://hack2skill.com/google/build-with-ai-solution-challenge-2026) | GDG x Hack2Skill**
+> 🏆 **Built for [Build with AI Solution Challenge 2026] (https://vision.hack2skill.com/event/solution-challenge-2026) | GDG x Hack2Skill**
 > ---
 
 Welcome to the **Sahayogi-Intelligence-Platform**. This isn't just a technical registry; it's a "Command Center" for social impact, born from the belief that transparency and military-grade intelligence can decentralize aid and empower the unseen heroes of India’s social sector.

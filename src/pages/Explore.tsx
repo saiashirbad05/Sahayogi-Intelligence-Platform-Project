@@ -12,6 +12,7 @@ import {
   Globe, Mail, X, ExternalLink
 } from 'lucide-react';
 import { bulkNGOs, bulkVolunteers } from '../data/bulk_entities';
+import { resolveEntityImage, resolveEntityLogo } from '../lib/images';
 import './Explore.css';
 
 interface Entity {
@@ -138,7 +139,7 @@ export const Explore: React.FC = () => {
         }));
 
         const dbEntities = formattedNGOs.filter(dbn => 
-          !bulkEntities.some(bn => bn.name.toLowerCase() === dbn.name.toLowerCase())
+          !bulkEntities.some(bn => bn.name.toLowerCase() === dbn.name.toLowerCase() || bn.id === dbn.id)
         );
 
         const allNGOs = [...bulkEntities, ...dbEntities]
@@ -377,32 +378,35 @@ export const Explore: React.FC = () => {
                   className="entity-card"
                   onClick={() => navigate(`/profile/${entity.id}?type=${entity.type.toLowerCase()}`)}
                 >
-                  {entity.images && entity.images.length > 0 && (
                     <div className="entity-card-image">
-                       <img 
-                        src={entity.images[0]} 
-                        alt={entity.name} 
-                        loading="lazy" 
-                        onError={(e: any) => { 
-                          const fallbacks = [
-                            "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c",
-                            "https://images.unsplash.com/photo-1509099836639-18ba1795216d",
-                            "https://images.unsplash.com/photo-1542601906-fbbd4afdb3fd",
-                            "https://images.unsplash.com/photo-1518331647414-7664448a393e",
-                            "https://images.unsplash.com/photo-1516627145497-ae6968893b74"
-                          ];
-                          // Use simple char code summation to pick a fallback
-                          const idx = entity.id.split('').reduce((acc, char) => acc + char.charCodeAt(0), 0) % fallbacks.length;
-                          e.target.src = `${fallbacks[idx]}?auto=format&fit=crop&q=80&w=800`;
-                        }} 
-                       />
+                        <img 
+                         key={`${entity.id}-img`}
+                         src={resolveEntityImage(entity)} 
+                         alt={entity.name} 
+                         loading="lazy" 
+                         onError={(e: any) => { 
+                           const fallbacks = [
+                             "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c",
+                             "https://images.unsplash.com/photo-1509099836639-18ba1795216d",
+                             "https://images.unsplash.com/photo-1542601906-fbbd4afdb3fd",
+                             "https://images.unsplash.com/photo-1518331647414-7664448a393e",
+                             "https://images.unsplash.com/photo-1516627145497-ae6968893b74"
+                           ];
+                           const safeId = (entity.id || entity.name || '0').toString();
+                           const seed = safeId.split('').reduce((acc: any, char: any) => acc + char.charCodeAt(0), 0);
+                           e.target.src = `${fallbacks[seed % fallbacks.length]}?auto=format&fit=crop&q=80&w=800`;
+                         }} 
+                        />
                     </div>
-                  )}
 
                   <div className="entity-card-content">
                     <div className="entity-info-header">
                       <div className="entity-avatar-wrapper">
-                        <Briefcase size={24} color="white" />
+                        {resolveEntityLogo(entity) ? (
+                          <img src={resolveEntityLogo(entity)} alt={entity.name} style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
+                        ) : (
+                          <Briefcase size={24} color="white" />
+                        )}
                       </div>
                       <div className="entity-title-section">
                         <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>

@@ -10,6 +10,7 @@ import { getUnsplashUrl } from '../lib/images';
 import { supabase } from '../lib/supabase';
 
 import { bulkNGOs, bulkVolunteers } from '../data/bulk_entities';
+import { resolveEntityImage } from '../lib/images';
 
 export const Profile: React.FC = () => {
   const { id } = useParams<{ id: string }>();
@@ -107,19 +108,6 @@ export const Profile: React.FC = () => {
     );
   }
 
-  const getImageUrl = (src: any, theme: string = "General") => {
-    if (typeof src === 'string') {
-      if (src.startsWith('http')) return src;
-      if (src.startsWith('/images/')) return src;
-    }
-    // Fallback if it's a number or missing
-    const fallbacks = [
-      "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c",
-      "https://images.unsplash.com/photo-1542601906-fbbd4afdb3fd",
-      "https://images.unsplash.com/photo-1509099836639-18ba1795216d"
-    ];
-    return fallbacks[Number(src) % fallbacks.length] || fallbacks[0];
-  };
 
   const getPlatformIcon = (platform: string) => {
     switch (platform?.toLowerCase()) {
@@ -208,7 +196,7 @@ export const Profile: React.FC = () => {
           <section style={{ height: '420px', position: 'relative', overflow: 'hidden' }}>
              <div style={{ 
                position: 'absolute', inset: 0, 
-               background: `linear-gradient(rgba(10,17,40,0.3) 0%, rgba(10,17,40,0.9) 100%), url(${getImageUrl(entity.gallery?.[0] || 0, entity.theme)})`,
+               background: `linear-gradient(rgba(10,17,40,0.3) 0%, rgba(10,17,40,0.9) 100%), url(${resolveEntityImage(entity)})`,
                backgroundSize: 'cover', backgroundPosition: 'center',
                transform: 'scale(1.05)'
              }} />
@@ -284,8 +272,8 @@ export const Profile: React.FC = () => {
                           background: 'var(--white)', boxShadow: 'var(--shadow-md)'
                         }}
                       >
-                        <img 
-                          src={getImageUrl(img, entity.theme || "Action")} 
+                         <img 
+                          src={typeof img === 'string' && img.length > 5 ? img : resolveEntityImage(entity)} 
                           alt="Evidence" 
                           style={{ width: '100%', height: '100%', objectFit: 'cover' }} 
                         />
