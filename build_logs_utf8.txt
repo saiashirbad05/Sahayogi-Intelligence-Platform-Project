@@ -1,0 +1,15 @@
+﻿
+> community-risk-platform@0.0.0 build
+> tsc -b && vite build
+
+src/components/Sidebar.tsx(4,82): error TS6133: 'Activity' is declared but its value is never read.
+src/components/Sidebar.tsx(4,92): error TS6133: 'Database' is declared but its value is never read.
+src/pages/Dashboard.tsx(3,3): error TS6133: 'AlertCircle' is declared but its value is never read.
+src/pages/Dashboard.tsx(5,27): error TS6133: 'ChevronRight' is declared but its value is never read.
+src/pages/Home.tsx(2,32): error TS6133: 'BarChart3' is declared but its value is never read.
+src/pages/Home.tsx(2,43): error TS6133: 'Bell' is declared but its value is never read.
+src/pages/Home.tsx(2,49): error TS6133: 'ShieldPlus' is declared but its value is never read.
+src/pages/Home.tsx(3,1): error TS6133: 'HexIcon' is declared but its value is never read.
+src/pages/Home.tsx(128,77): error TS2769: No overload matches this call.
+  The last overload gave the following error.
+    Object literal may only specify known properties, and 'color' does not exist in type 'Partial<unknown> & Attributes'.

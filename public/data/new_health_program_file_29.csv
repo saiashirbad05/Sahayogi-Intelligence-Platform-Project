@@ -1,0 +1,181 @@
+Program_ID,Year,Quarter,State,District,Health_Program,Data_Source,Population_Covered,Households_Served,ASHA_Involved,Patients_Treated,Vaccination_Sessions,Severe_Cases,Recovery_Rate_%
+P29_0,2018,Q2,Assam,Guwahati,TB Control,Punjab Health Mission,304187,44139,139,3938,739,31,71
+P29_1,2020,Q1,Odisha,Puri,Malaria Control,CARE India,294286,5770,52,3369,634,127,97
+P29_2,2018,Q4,Rajasthan,Jaipur,Malaria Control,Assam NRHM,278998,43509,241,961,537,91,76
+P29_3,2019,Q4,Odisha,Puri,TB Control,UNICEF India,132350,7387,229,4120,212,134,69
+P29_4,2017,Q3,Assam,Dibrugarh,Maternal Health,Assam NRHM,354276,21183,42,2063,653,20,84
+P29_5,2018,Q1,Rajasthan,Jodhpur,Maternal Health,CARE India,68584,24963,107,1244,350,143,84
+P29_6,2018,Q4,Odisha,Cuttack,Nutrition Program,UNICEF India,325743,16384,176,1151,445,33,80
+P29_7,2020,Q4,Kerala,Thrissur,Nutrition Program,UNICEF India,244666,44207,222,4571,510,108,79
+P29_8,2018,Q4,Rajasthan,Udaipur,Malaria Control,UNICEF India,117153,38005,152,3430,639,3,80
+P29_9,2020,Q4,Odisha,Cuttack,Malaria Control,Punjab Health Mission,109534,16993,21,4337,168,36,61
+P29_10,2017,Q4,Rajasthan,Udaipur,TB Control,UNICEF India,75378,13804,65,363,346,67,74
+P29_11,2018,Q3,Punjab,Ludhiana,Malaria Control,Kerala Health Department,126642,24447,86,1681,706,20,93
+P29_12,2020,Q3,Rajasthan,Jodhpur,Malaria Control,NHM Odisha,92202,11403,93,2296,131,21,79
+P29_13,2019,Q3,Kerala,Thrissur,Malaria Control,Punjab Health Mission,71666,16257,244,211,381,121,68
+P29_14,2020,Q2,Rajasthan,Jaipur,TB Control,Punjab Health Mission,297476,37282,20,594,508,192,82
+P29_15,2020,Q3,Rajasthan,Jodhpur,TB Control,State Health Society Rajasthan,195550,38487,35,1108,74,136,61
+P29_16,2017,Q3,Odisha,Puri,TB Control,Assam NRHM,383879,19679,66,1564,748,5,76
+P29_17,2018,Q4,Odisha,Puri,Nutrition Program,Punjab Health Mission,387422,35057,85,1440,345,51,85
+P29_18,2019,Q4,Kerala,Kochi,TB Control,Assam NRHM,345437,44586,112,2399,594,135,73
+P29_19,2020,Q4,Assam,Silchar,Child Immunization,CARE India,376541,41753,57,480,421,95,64
+P29_20,2020,Q4,Odisha,Cuttack,Malaria Control,Punjab Health Mission,60040,33445,75,1428,295,140,66
+P29_21,2020,Q3,Rajasthan,Jodhpur,TB Control,NHM Odisha,137804,24171,39,4392,583,13,93
+P29_22,2018,Q1,Assam,Dibrugarh,Child Immunization,Assam NRHM,155140,11790,212,1074,478,91,97
+P29_23,2017,Q3,Rajasthan,Jodhpur,TB Control,NHM Odisha,114551,7869,181,4548,530,140,75
+P29_24,2019,Q4,Kerala,Thrissur,Maternal Health,Assam NRHM,265430,47336,121,2526,690,84,87
+P29_25,2017,Q2,Odisha,Bhubaneswar,TB Control,Punjab Health Mission,385480,30522,27,4758,52,38,60
+P29_26,2020,Q1,Odisha,Bhubaneswar,Maternal Health,Kerala Health Department,165198,20859,131,3826,509,186,77
+P29_27,2020,Q3,Punjab,Ludhiana,Maternal Health,Punjab Health Mission,273228,17429,110,174,266,72,73
+P29_28,2017,Q1,Kerala,Kochi,Maternal Health,Kerala Health Department,382002,9027,40,4954,54,114,91
+P29_29,2018,Q2,Assam,Dibrugarh,Nutrition Program,NHM Odisha,202799,44929,144,4270,485,152,63
+P29_30,2020,Q4,Odisha,Cuttack,Malaria Control,Kerala Health Department,309368,39172,229,1957,498,168,89
+P29_31,2019,Q1,Punjab,Ludhiana,Maternal Health,UNICEF India,394445,29238,47,4239,561,37,80
+P29_32,2017,Q4,Kerala,Thrissur,Child Immunization,NHM Odisha,384247,34924,86,185,749,70,83
+P29_33,2019,Q2,Kerala,Kochi,Malaria Control,Punjab Health Mission,226216,29131,56,643,472,131,78
+P29_34,2018,Q3,Assam,Guwahati,Maternal Health,Punjab Health Mission,221317,12213,169,2896,353,134,81
+P29_35,2018,Q3,Assam,Dibrugarh,Nutrition Program,NHM Odisha,399573,42163,149,473,380,31,79
+P29_36,2020,Q4,Punjab,Amritsar,Child Immunization,Assam NRHM,367198,30755,160,3278,611,33,70
+P29_37,2017,Q2,Assam,Dibrugarh,Malaria Control,State Health Society Rajasthan,391944,44492,155,1248,361,78,78
+P29_38,2018,Q2,Kerala,Kochi,Maternal Health,UNICEF India,87477,17531,58,4437,533,134,66
+P29_39,2019,Q4,Kerala,Kochi,Child Immunization,State Health Society Rajasthan,382683,44521,146,2704,607,147,78
+P29_40,2018,Q4,Assam,Dibrugarh,Nutrition Program,Punjab Health Mission,375740,42586,40,1756,199,191,81
+P29_41,2018,Q4,Odisha,Bhubaneswar,Malaria Control,Punjab Health Mission,237107,48825,85,3965,754,50,95
+P29_42,2018,Q4,Kerala,Kozhikode,Malaria Control,Kerala Health Department,329552,40909,60,3315,617,16,71
+P29_43,2018,Q3,Punjab,Ludhiana,Nutrition Program,State Health Society Rajasthan,305979,45389,232,293,400,143,71
+P29_44,2020,Q2,Odisha,Bhubaneswar,Nutrition Program,State Health Society Rajasthan,320635,9586,247,1659,456,166,92
+P29_45,2017,Q1,Rajasthan,Udaipur,TB Control,Assam NRHM,126840,28893,190,3952,700,122,83
+P29_46,2020,Q1,Odisha,Cuttack,Maternal Health,Punjab Health Mission,294951,5554,109,3971,754,153,75
+P29_47,2018,Q3,Rajasthan,Jodhpur,TB Control,Assam NRHM,230512,25018,49,836,274,97,63
+P29_48,2017,Q3,Assam,Dibrugarh,TB Control,Punjab Health Mission,390732,20231,110,3852,484,74,97
+P29_49,2017,Q4,Punjab,Patiala,Nutrition Program,UNICEF India,95609,23871,90,4852,466,26,97
+P29_50,2017,Q3,Odisha,Bhubaneswar,Nutrition Program,Punjab Health Mission,46682,40181,109,4627,663,153,83
+P29_51,2019,Q1,Assam,Guwahati,Child Immunization,State Health Society Rajasthan,399216,7846,62,3162,289,182,78
+P29_52,2019,Q4,Assam,Guwahati,TB Control,NHM Odisha,382142,8464,42,1751,325,88,93
+P29_53,2020,Q1,Kerala,Kozhikode,Nutrition Program,Assam NRHM,131628,25770,40,1713,681,177,66
+P29_54,2020,Q2,Punjab,Ludhiana,Malaria Control,Punjab Health Mission,378103,16665,179,4329,91,98,74
+P29_55,2020,Q4,Kerala,Kozhikode,Malaria Control,Kerala Health Department,113679,6053,54,4193,444,186,96
+P29_56,2019,Q3,Odisha,Bhubaneswar,Child Immunization,CARE India,309215,23444,74,2852,252,188,66
+P29_57,2019,Q4,Odisha,Puri,Nutrition Program,State Health Society Rajasthan,276760,24560,47,4553,544,53,93
+P29_58,2020,Q1,Punjab,Ludhiana,TB Control,UNICEF India,345725,7016,128,1789,249,6,66
+P29_59,2018,Q2,Kerala,Kozhikode,Nutrition Program,Assam NRHM,215577,30349,21,3942,603,116,84
+P29_60,2017,Q1,Punjab,Ludhiana,Maternal Health,CARE India,180708,45571,81,1402,270,86,63
+P29_61,2017,Q2,Punjab,Patiala,Malaria Control,NHM Odisha,103476,18857,161,1556,347,12,82
+P29_62,2019,Q4,Rajasthan,Udaipur,Nutrition Program,Punjab Health Mission,45612,43550,186,3299,606,21,85
+P29_63,2020,Q2,Rajasthan,Udaipur,Child Immunization,CARE India,218216,46537,170,2556,389,125,86
+P29_64,2019,Q4,Odisha,Cuttack,TB Control,NHM Odisha,221803,26454,21,627,792,134,61
+P29_65,2018,Q4,Punjab,Ludhiana,Nutrition Program,NHM Odisha,209558,14064,135,1327,610,163,88
+P29_66,2020,Q4,Assam,Dibrugarh,Malaria Control,Punjab Health Mission,329942,19264,233,3644,660,59,65
+P29_67,2019,Q3,Assam,Silchar,Malaria Control,UNICEF India,208149,44824,234,4310,288,195,95
+P29_68,2020,Q2,Assam,Silchar,Nutrition Program,Punjab Health Mission,301670,47966,193,1747,115,20,94
+P29_69,2017,Q4,Punjab,Amritsar,TB Control,Kerala Health Department,325327,27960,228,4726,272,119,95
+P29_70,2017,Q2,Punjab,Amritsar,TB Control,UNICEF India,111927,21585,141,3864,67,32,65
+P29_71,2017,Q2,Rajasthan,Jodhpur,Child Immunization,CARE India,183801,41958,66,1707,371,41,61
+P29_72,2019,Q4,Assam,Guwahati,Nutrition Program,NHM Odisha,201286,47487,181,930,349,14,96
+P29_73,2019,Q1,Punjab,Amritsar,Maternal Health,Kerala Health Department,101226,18239,77,780,241,59,92
+P29_74,2019,Q2,Kerala,Kochi,Child Immunization,State Health Society Rajasthan,191161,18942,68,514,136,175,80
+P29_75,2020,Q2,Rajasthan,Jaipur,Nutrition Program,Punjab Health Mission,328783,42128,113,3993,220,140,82
+P29_76,2020,Q4,Kerala,Thrissur,TB Control,State Health Society Rajasthan,52340,9846,140,3593,97,159,95
+P29_77,2020,Q2,Assam,Guwahati,Malaria Control,UNICEF India,305575,34553,149,4712,652,27,91
+P29_78,2018,Q3,Kerala,Thrissur,Malaria Control,Punjab Health Mission,110547,40844,90,1329,243,91,93
+P29_79,2017,Q1,Kerala,Kozhikode,Nutrition Program,Punjab Health Mission,333525,12824,166,1608,251,57,81
+P29_80,2020,Q2,Odisha,Cuttack,Child Immunization,Punjab Health Mission,61498,28101,151,3388,286,18,75
+P29_81,2018,Q4,Punjab,Patiala,TB Control,State Health Society Rajasthan,217020,29319,115,3396,768,103,90
+P29_82,2018,Q2,Punjab,Ludhiana,Malaria Control,Punjab Health Mission,180445,46810,134,4274,325,84,87
+P29_83,2018,Q3,Odisha,Cuttack,TB Control,NHM Odisha,78795,28073,92,4891,653,38,91
+P29_84,2019,Q4,Assam,Silchar,Child Immunization,UNICEF India,263811,13602,40,3028,507,128,77
+P29_85,2019,Q4,Assam,Dibrugarh,Malaria Control,Kerala Health Department,353620,39423,207,4353,596,24,91
+P29_86,2017,Q4,Assam,Guwahati,Nutrition Program,UNICEF India,153050,5273,21,1710,81,198,68
+P29_87,2020,Q3,Rajasthan,Jaipur,Maternal Health,NHM Odisha,232276,43202,76,593,629,110,95
+P29_88,2018,Q4,Assam,Dibrugarh,Maternal Health,CARE India,266850,12215,25,3324,472,146,98
+P29_89,2019,Q1,Assam,Dibrugarh,Nutrition Program,NHM Odisha,307666,6089,204,354,386,63,63
+P29_90,2020,Q4,Assam,Silchar,Nutrition Program,Kerala Health Department,121484,10422,203,3651,51,82,79
+P29_91,2020,Q1,Punjab,Ludhiana,TB Control,NHM Odisha,83115,18629,43,2623,484,140,77
+P29_92,2017,Q3,Rajasthan,Udaipur,TB Control,Assam NRHM,86851,29864,93,1254,511,47,84
+P29_93,2020,Q3,Kerala,Thrissur,Malaria Control,NHM Odisha,132853,19453,160,1457,216,84,77
+P29_94,2017,Q1,Assam,Dibrugarh,Maternal Health,NHM Odisha,99043,34758,234,2278,598,47,68
+P29_95,2018,Q1,Odisha,Puri,Maternal Health,NHM Odisha,260778,7729,109,3631,705,138,73
+P29_96,2019,Q1,Odisha,Bhubaneswar,TB Control,Punjab Health Mission,62762,31803,243,1793,536,25,93
+P29_97,2017,Q3,Assam,Guwahati,Malaria Control,UNICEF India,361801,49048,52,886,143,114,72
+P29_98,2018,Q3,Odisha,Bhubaneswar,Nutrition Program,NHM Odisha,254342,17746,41,4267,175,126,85
+P29_99,2019,Q2,Odisha,Bhubaneswar,TB Control,CARE India,94630,10799,223,2392,143,91,79
+P29_100,2020,Q1,Assam,Silchar,Malaria Control,CARE India,302398,46217,65,682,60,55,96
+P29_101,2020,Q2,Punjab,Patiala,Maternal Health,State Health Society Rajasthan,125533,14222,22,2080,272,70,76
+P29_102,2019,Q4,Odisha,Cuttack,Maternal Health,Punjab Health Mission,115013,8203,210,4062,562,173,84
+P29_103,2019,Q1,Punjab,Ludhiana,Maternal Health,Assam NRHM,382441,37212,82,4699,74,30,64
+P29_104,2019,Q4,Punjab,Amritsar,Malaria Control,State Health Society Rajasthan,375132,39147,49,2466,89,54,67
+P29_105,2018,Q1,Kerala,Kozhikode,Malaria Control,CARE India,115603,11933,41,2075,162,140,60
+P29_106,2017,Q4,Odisha,Cuttack,Child Immunization,Kerala Health Department,367820,48199,64,2300,227,160,95
+P29_107,2020,Q4,Assam,Guwahati,Maternal Health,State Health Society Rajasthan,143959,23082,29,2282,720,109,61
+P29_108,2017,Q4,Rajasthan,Jaipur,Nutrition Program,NHM Odisha,350212,31670,215,190,629,114,87
+P29_109,2017,Q3,Odisha,Bhubaneswar,Malaria Control,Punjab Health Mission,52813,5448,136,169,142,101,88
+P29_110,2017,Q1,Kerala,Kochi,Maternal Health,CARE India,279125,5471,136,106,260,80,73
+P29_111,2018,Q2,Punjab,Amritsar,Nutrition Program,NHM Odisha,247378,38283,147,217,727,19,95
+P29_112,2018,Q4,Odisha,Cuttack,Maternal Health,State Health Society Rajasthan,229810,41899,182,1386,742,149,73
+P29_113,2017,Q1,Kerala,Kozhikode,Nutrition Program,CARE India,293368,30471,69,4927,407,95,73
+P29_114,2019,Q3,Odisha,Bhubaneswar,Malaria Control,State Health Society Rajasthan,250248,23238,190,3687,726,110,86
+P29_115,2019,Q2,Punjab,Ludhiana,Child Immunization,CARE India,158851,36566,179,4637,708,90,95
+P29_116,2018,Q1,Odisha,Cuttack,Nutrition Program,Punjab Health Mission,140685,17512,150,317,560,125,68
+P29_117,2020,Q1,Punjab,Ludhiana,Child Immunization,State Health Society Rajasthan,175963,46701,51,2261,409,43,79
+P29_118,2019,Q4,Punjab,Patiala,TB Control,UNICEF India,122905,5659,131,2027,312,159,79
+P29_119,2018,Q2,Odisha,Cuttack,Malaria Control,Assam NRHM,169912,44730,153,4863,561,48,68
+P29_120,2019,Q2,Assam,Guwahati,Nutrition Program,Punjab Health Mission,121669,42800,48,1701,782,74,64
+P29_121,2019,Q2,Kerala,Thrissur,Maternal Health,UNICEF India,389214,34810,63,2646,667,125,82
+P29_122,2019,Q1,Assam,Silchar,TB Control,Assam NRHM,303567,26973,61,1118,777,119,94
+P29_123,2019,Q3,Odisha,Cuttack,Nutrition Program,UNICEF India,181390,27293,110,4504,327,128,69
+P29_124,2017,Q2,Punjab,Ludhiana,Nutrition Program,Assam NRHM,246042,17821,210,477,393,159,67
+P29_125,2020,Q2,Odisha,Cuttack,Child Immunization,NHM Odisha,223784,31295,229,881,408,39,82
+P29_126,2018,Q3,Punjab,Patiala,Maternal Health,CARE India,132388,34295,143,2234,488,165,94
+P29_127,2017,Q4,Rajasthan,Jodhpur,Child Immunization,Assam NRHM,122914,49824,39,2615,190,187,60
+P29_128,2020,Q2,Odisha,Cuttack,Nutrition Program,Assam NRHM,296794,8074,109,1619,759,4,83
+P29_129,2017,Q3,Assam,Silchar,Nutrition Program,Punjab Health Mission,88113,25383,54,2471,379,134,86
+P29_130,2017,Q3,Assam,Guwahati,TB Control,State Health Society Rajasthan,330457,7656,202,327,222,155,61
+P29_131,2019,Q4,Punjab,Patiala,Maternal Health,UNICEF India,274531,46150,234,3267,158,183,71
+P29_132,2017,Q3,Punjab,Patiala,Maternal Health,UNICEF India,199744,38082,121,3130,241,25,94
+P29_133,2020,Q4,Punjab,Patiala,Maternal Health,Kerala Health Department,48726,43801,239,4930,72,47,72
+P29_134,2018,Q4,Assam,Dibrugarh,Child Immunization,Punjab Health Mission,374717,31993,198,2418,424,195,92
+P29_135,2018,Q1,Kerala,Kozhikode,TB Control,UNICEF India,174968,30075,21,4515,630,95,88
+P29_136,2020,Q1,Rajasthan,Udaipur,TB Control,Punjab Health Mission,187601,30270,194,1428,382,130,63
+P29_137,2020,Q3,Punjab,Patiala,Malaria Control,Punjab Health Mission,72317,49719,111,1662,535,75,73
+P29_138,2019,Q1,Punjab,Amritsar,Maternal Health,UNICEF India,260417,23618,177,4339,167,57,89
+P29_139,2018,Q1,Rajasthan,Jodhpur,Nutrition Program,UNICEF India,124474,20167,68,3933,63,153,77
+P29_140,2017,Q1,Odisha,Bhubaneswar,Maternal Health,NHM Odisha,205104,24197,65,3887,564,8,82
+P29_141,2020,Q2,Assam,Guwahati,TB Control,State Health Society Rajasthan,110092,42207,116,1588,363,164,77
+P29_142,2020,Q4,Rajasthan,Udaipur,Nutrition Program,Assam NRHM,72896,10518,207,2110,678,183,63
+P29_143,2020,Q2,Assam,Guwahati,Maternal Health,CARE India,344797,5370,184,304,467,41,92
+P29_144,2019,Q1,Punjab,Ludhiana,TB Control,UNICEF India,124228,36169,29,3649,690,191,62
+P29_145,2020,Q2,Assam,Silchar,Child Immunization,Kerala Health Department,178235,21886,64,2742,646,171,70
+P29_146,2018,Q3,Punjab,Patiala,Child Immunization,Assam NRHM,371154,22919,249,2822,85,112,62
+P29_147,2017,Q2,Rajasthan,Jaipur,Nutrition Program,State Health Society Rajasthan,80257,8201,99,4404,350,158,84
+P29_148,2020,Q4,Odisha,Cuttack,Malaria Control,Punjab Health Mission,302342,10344,60,2830,750,120,79
+P29_149,2018,Q3,Odisha,Cuttack,Child Immunization,UNICEF India,375105,8375,24,2956,203,166,83
+P29_150,2017,Q2,Kerala,Thrissur,TB Control,State Health Society Rajasthan,64072,17686,116,4251,383,72,82
+P29_151,2018,Q4,Kerala,Thrissur,Malaria Control,Kerala Health Department,248207,41629,248,510,406,5,67
+P29_152,2017,Q3,Assam,Dibrugarh,Maternal Health,Punjab Health Mission,383210,36112,192,2679,437,11,85
+P29_153,2017,Q2,Kerala,Thrissur,Child Immunization,CARE India,215110,18496,93,3007,463,139,75
+P29_154,2017,Q4,Rajasthan,Jodhpur,Child Immunization,Assam NRHM,226687,24688,198,150,53,19,95
+P29_155,2017,Q3,Kerala,Kozhikode,Malaria Control,Assam NRHM,383488,42678,161,3187,323,180,96
+P29_156,2017,Q2,Odisha,Puri,Malaria Control,Assam NRHM,80164,37884,203,696,327,165,62
+P29_157,2018,Q1,Rajasthan,Udaipur,TB Control,UNICEF India,168335,47798,28,2752,147,88,86
+P29_158,2020,Q1,Kerala,Kozhikode,Maternal Health,State Health Society Rajasthan,69898,49304,188,994,756,45,76
+P29_159,2018,Q4,Odisha,Puri,Nutrition Program,UNICEF India,375670,46818,117,3321,376,42,82
+P29_160,2018,Q2,Odisha,Cuttack,Child Immunization,Assam NRHM,366278,39525,225,4139,309,101,89
+P29_161,2017,Q1,Kerala,Kozhikode,Child Immunization,Punjab Health Mission,129797,5063,128,1665,369,135,93
+P29_162,2017,Q4,Rajasthan,Jaipur,Malaria Control,Punjab Health Mission,204923,46417,44,2843,498,199,62
+P29_163,2020,Q4,Odisha,Bhubaneswar,Malaria Control,UNICEF India,135097,5764,231,1409,698,89,80
+P29_164,2017,Q1,Assam,Guwahati,Malaria Control,Kerala Health Department,294653,7858,231,4246,282,131,72
+P29_165,2018,Q3,Assam,Silchar,Maternal Health,Kerala Health Department,198228,34630,226,3935,356,91,91
+P29_166,2017,Q1,Odisha,Puri,Malaria Control,Punjab Health Mission,334968,32863,199,3480,792,183,70
+P29_167,2017,Q3,Kerala,Thrissur,Nutrition Program,CARE India,79075,39979,205,2250,95,86,75
+P29_168,2017,Q2,Kerala,Thrissur,Child Immunization,Punjab Health Mission,64756,44935,32,3206,714,74,96
+P29_169,2017,Q2,Punjab,Ludhiana,TB Control,NHM Odisha,65570,35703,53,3687,613,103,94
+P29_170,2019,Q3,Rajasthan,Udaipur,Maternal Health,Punjab Health Mission,287165,36855,126,4465,408,134,98
+P29_171,2018,Q3,Kerala,Kochi,Nutrition Program,Assam NRHM,275606,5845,46,1397,570,96,75
+P29_172,2020,Q3,Kerala,Kozhikode,Nutrition Program,Punjab Health Mission,88836,23001,57,1923,111,55,86
+P29_173,2018,Q2,Punjab,Ludhiana,Child Immunization,State Health Society Rajasthan,366116,20257,224,2891,798,144,92
+P29_174,2020,Q2,Rajasthan,Jodhpur,TB Control,NHM Odisha,226535,10905,242,2309,174,101,85
+P29_175,2019,Q1,Kerala,Kozhikode,Maternal Health,UNICEF India,238012,31373,135,1245,422,122,76
+P29_176,2019,Q3,Rajasthan,Jodhpur,Child Immunization,Kerala Health Department,92724,30838,221,4351,579,133,71
+P29_177,2020,Q1,Kerala,Thrissur,Maternal Health,UNICEF India,347343,39020,54,1484,226,117,70
+P29_178,2018,Q3,Punjab,Amritsar,Malaria Control,CARE India,131170,43436,76,236,583,118,98
+P29_179,2017,Q3,Odisha,Cuttack,TB Control,Punjab Health Mission,283001,25796,98,4240,449,135,90

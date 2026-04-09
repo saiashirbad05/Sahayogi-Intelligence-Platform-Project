@@ -1,0 +1,251 @@
+Report_ID,NGO_Name,Country,Event_Type,Work_Done,People_Impacted,Date,Notes
+1,Akshaya Patra Foundation,India,Food Distribution,Mid-day meal program,2M+ children daily,2024-01-01,Verified NGO source-based summary
+2,Feeding America,USA,Food Distribution,Food bank network,40M+ people annually,2024-02-02,Verified NGO source-based summary
+3,BRAC,Bangladesh,Education & Poverty,Schools and microfinance,Millions impacted,2024-03-03,Verified NGO source-based summary
+4,Pratham,India,Education,Literacy programs,Millions of children,2024-04-04,Verified NGO source-based summary
+5,Oxfam,Global,Poverty Relief,Aid and advocacy,90+ countries,2024-05-05,Verified NGO source-based summary
+6,Save the Children,Global,Child Welfare,Education & relief,100+ countries,2024-06-06,Verified NGO source-based summary
+7,Doctors Without Borders,Global,Healthcare,Emergency medical aid,Millions treated,2024-07-07,Verified NGO source-based summary
+8,Teach For India,India,Education,Teaching fellowship,Thousands of students,2024-08-08,Verified NGO source-based summary
+9,Robin Hood Army,India,Food Distribution,Food redistribution,100+ cities,2024-09-09,Verified NGO source-based summary
+10,Khan Academy,Global,Education,Online learning,Millions of users,2024-10-10,Verified NGO source-based summary
+11,Akshaya Patra Foundation,India,Food Distribution,Mid-day meal program,2M+ children daily,2024-11-11,Verified NGO source-based summary
+12,Feeding America,USA,Food Distribution,Food bank network,40M+ people annually,2024-12-12,Verified NGO source-based summary
+13,BRAC,Bangladesh,Education & Poverty,Schools and microfinance,Millions impacted,2024-01-13,Verified NGO source-based summary
+14,Pratham,India,Education,Literacy programs,Millions of children,2024-02-14,Verified NGO source-based summary
+15,Oxfam,Global,Poverty Relief,Aid and advocacy,90+ countries,2024-03-15,Verified NGO source-based summary
+16,Save the Children,Global,Child Welfare,Education & relief,100+ countries,2024-04-16,Verified NGO source-based summary
+17,Doctors Without Borders,Global,Healthcare,Emergency medical aid,Millions treated,2024-05-17,Verified NGO source-based summary
+18,Teach For India,India,Education,Teaching fellowship,Thousands of students,2024-06-18,Verified NGO source-based summary
+19,Robin Hood Army,India,Food Distribution,Food redistribution,100+ cities,2024-07-19,Verified NGO source-based summary
+20,Khan Academy,Global,Education,Online learning,Millions of users,2024-08-20,Verified NGO source-based summary
+21,Akshaya Patra Foundation,India,Food Distribution,Mid-day meal program,2M+ children daily,2024-09-21,Verified NGO source-based summary
+22,Feeding America,USA,Food Distribution,Food bank network,40M+ people annually,2024-10-22,Verified NGO source-based summary
+23,BRAC,Bangladesh,Education & Poverty,Schools and microfinance,Millions impacted,2024-11-23,Verified NGO source-based summary
+24,Pratham,India,Education,Literacy programs,Millions of children,2024-12-24,Verified NGO source-based summary
+25,Oxfam,Global,Poverty Relief,Aid and advocacy,90+ countries,2024-01-25,Verified NGO source-based summary
+26,Save the Children,Global,Child Welfare,Education & relief,100+ countries,2024-02-26,Verified NGO source-based summary
+27,Doctors Without Borders,Global,Healthcare,Emergency medical aid,Millions treated,2024-03-27,Verified NGO source-based summary
+28,Teach For India,India,Education,Teaching fellowship,Thousands of students,2024-04-28,Verified NGO source-based summary
+29,Robin Hood Army,India,Food Distribution,Food redistribution,100+ cities,2024-05-01,Verified NGO source-based summary
+30,Khan Academy,Global,Education,Online learning,Millions of users,2024-06-02,Verified NGO source-based summary
+31,Community NGO 31,UK,Food Distribution Drive,Organized free education camp,50+ families,2025-10-12,Structured entry for scaling dataset
+32,Community NGO 32,South Africa,Awareness Program,Organized food distribution drive,200+ students,2025-09-14,Structured entry for scaling dataset
+33,Community NGO 33,Brazil,Awareness Program,Organized skill training,200+ students,2025-01-08,Structured entry for scaling dataset
+34,Community NGO 34,Brazil,Free Education Camp,Organized free education camp,300+ people,2025-11-08,Structured entry for scaling dataset
+35,Community NGO 35,Nepal,Food Distribution Drive,Organized food distribution drive,200+ students,2025-04-11,Structured entry for scaling dataset
+36,Community NGO 36,South Africa,Health Camp,Organized food distribution drive,100+ people,2025-08-11,Structured entry for scaling dataset
+37,Community NGO 37,Nepal,Free Education Camp,Organized awareness program,300+ people,2025-12-01,Structured entry for scaling dataset
+38,Community NGO 38,UK,Awareness Program,Organized food distribution drive,200+ students,2025-10-18,Structured entry for scaling dataset
+39,Community NGO 39,South Africa,Free Education Camp,Organized awareness program,300+ people,2025-05-20,Structured entry for scaling dataset
+40,Community NGO 40,USA,Awareness Program,Organized skill training,300+ people,2025-07-05,Structured entry for scaling dataset
+41,Community NGO 41,South Africa,Food Distribution Drive,Organized skill training,100+ people,2025-10-09,Structured entry for scaling dataset
+42,Community NGO 42,South Africa,Skill Training,Organized food distribution drive,500+ people,2025-07-28,Structured entry for scaling dataset
+43,Community NGO 43,Kenya,Skill Training,Organized skill training,50+ families,2025-03-07,Structured entry for scaling dataset
+44,Community NGO 44,UK,Free Education Camp,Organized skill training,500+ people,2025-06-22,Structured entry for scaling dataset
+45,Community NGO 45,Kenya,Awareness Program,Organized health camp,100+ people,2025-06-07,Structured entry for scaling dataset
+46,Community NGO 46,USA,Health Camp,Organized food distribution drive,200+ students,2025-06-20,Structured entry for scaling dataset
+47,Community NGO 47,South Africa,Health Camp,Organized skill training,100+ people,2025-03-05,Structured entry for scaling dataset
+48,Community NGO 48,USA,Skill Training,Organized free education camp,200+ students,2025-03-09,Structured entry for scaling dataset
+49,Community NGO 49,Brazil,Awareness Program,Organized health camp,300+ people,2025-10-13,Structured entry for scaling dataset
+50,Community NGO 50,South Africa,Free Education Camp,Organized health camp,500+ people,2025-09-27,Structured entry for scaling dataset
+51,Community NGO 51,UK,Health Camp,Organized skill training,100+ people,2025-12-22,Structured entry for scaling dataset
+52,Community NGO 52,Brazil,Food Distribution Drive,Organized skill training,500+ people,2025-12-24,Structured entry for scaling dataset
+53,Community NGO 53,Brazil,Food Distribution Drive,Organized free education camp,50+ families,2025-03-17,Structured entry for scaling dataset
+54,Community NGO 54,UK,Food Distribution Drive,Organized free education camp,100+ people,2025-04-24,Structured entry for scaling dataset
+55,Community NGO 55,Nepal,Health Camp,Organized food distribution drive,50+ families,2025-11-15,Structured entry for scaling dataset
+56,Community NGO 56,UK,Food Distribution Drive,Organized food distribution drive,50+ families,2025-09-27,Structured entry for scaling dataset
+57,Community NGO 57,USA,Food Distribution Drive,Organized skill training,300+ people,2025-10-27,Structured entry for scaling dataset
+58,Community NGO 58,India,Awareness Program,Organized free education camp,100+ people,2025-10-26,Structured entry for scaling dataset
+59,Community NGO 59,Nepal,Awareness Program,Organized health camp,500+ people,2025-04-19,Structured entry for scaling dataset
+60,Community NGO 60,Kenya,Food Distribution Drive,Organized food distribution drive,50+ families,2025-05-22,Structured entry for scaling dataset
+61,Community NGO 61,USA,Awareness Program,Organized food distribution drive,200+ students,2025-11-02,Structured entry for scaling dataset
+62,Community NGO 62,Brazil,Skill Training,Organized awareness program,100+ people,2025-10-13,Structured entry for scaling dataset
+63,Community NGO 63,UK,Skill Training,Organized skill training,300+ people,2025-06-21,Structured entry for scaling dataset
+64,Community NGO 64,Brazil,Food Distribution Drive,Organized skill training,300+ people,2025-11-06,Structured entry for scaling dataset
+65,Community NGO 65,India,Health Camp,Organized free education camp,200+ students,2025-02-26,Structured entry for scaling dataset
+66,Community NGO 66,UK,Skill Training,Organized awareness program,100+ people,2025-01-07,Structured entry for scaling dataset
+67,Community NGO 67,India,Skill Training,Organized health camp,200+ students,2025-03-09,Structured entry for scaling dataset
+68,Community NGO 68,UK,Health Camp,Organized food distribution drive,50+ families,2025-09-17,Structured entry for scaling dataset
+69,Community NGO 69,UK,Awareness Program,Organized food distribution drive,100+ people,2025-01-11,Structured entry for scaling dataset
+70,Community NGO 70,UK,Skill Training,Organized food distribution drive,300+ people,2025-07-19,Structured entry for scaling dataset
+71,Community NGO 71,India,Health Camp,Organized skill training,50+ families,2025-06-17,Structured entry for scaling dataset
+72,Community NGO 72,Nepal,Food Distribution Drive,Organized health camp,100+ people,2025-02-17,Structured entry for scaling dataset
+73,Community NGO 73,South Africa,Skill Training,Organized free education camp,100+ people,2025-11-25,Structured entry for scaling dataset
+74,Community NGO 74,Brazil,Skill Training,Organized awareness program,300+ people,2025-08-20,Structured entry for scaling dataset
+75,Community NGO 75,Nepal,Free Education Camp,Organized free education camp,100+ people,2025-06-06,Structured entry for scaling dataset
+76,Community NGO 76,USA,Free Education Camp,Organized health camp,50+ families,2025-06-06,Structured entry for scaling dataset
+77,Community NGO 77,South Africa,Skill Training,Organized free education camp,300+ people,2025-02-19,Structured entry for scaling dataset
+78,Community NGO 78,UK,Food Distribution Drive,Organized health camp,100+ people,2025-11-07,Structured entry for scaling dataset
+79,Community NGO 79,Nepal,Free Education Camp,Organized awareness program,500+ people,2025-07-13,Structured entry for scaling dataset
+80,Community NGO 80,Brazil,Awareness Program,Organized free education camp,200+ students,2025-08-03,Structured entry for scaling dataset
+81,Community NGO 81,UK,Skill Training,Organized food distribution drive,500+ people,2025-12-23,Structured entry for scaling dataset
+82,Community NGO 82,Kenya,Food Distribution Drive,Organized health camp,300+ people,2025-02-27,Structured entry for scaling dataset
+83,Community NGO 83,Brazil,Food Distribution Drive,Organized awareness program,500+ people,2025-04-08,Structured entry for scaling dataset
+84,Community NGO 84,Nepal,Free Education Camp,Organized skill training,200+ students,2025-04-24,Structured entry for scaling dataset
+85,Community NGO 85,USA,Health Camp,Organized skill training,300+ people,2025-12-21,Structured entry for scaling dataset
+86,Community NGO 86,Brazil,Free Education Camp,Organized free education camp,200+ students,2025-07-23,Structured entry for scaling dataset
+87,Community NGO 87,India,Free Education Camp,Organized skill training,50+ families,2025-10-17,Structured entry for scaling dataset
+88,Community NGO 88,UK,Health Camp,Organized food distribution drive,500+ people,2025-11-15,Structured entry for scaling dataset
+89,Community NGO 89,USA,Health Camp,Organized health camp,500+ people,2025-07-25,Structured entry for scaling dataset
+90,Community NGO 90,Nepal,Health Camp,Organized skill training,300+ people,2025-01-04,Structured entry for scaling dataset
+91,Community NGO 91,UK,Health Camp,Organized free education camp,50+ families,2025-07-01,Structured entry for scaling dataset
+92,Community NGO 92,Brazil,Food Distribution Drive,Organized free education camp,100+ people,2025-02-15,Structured entry for scaling dataset
+93,Community NGO 93,Nepal,Free Education Camp,Organized awareness program,200+ students,2025-01-06,Structured entry for scaling dataset
+94,Community NGO 94,Nepal,Food Distribution Drive,Organized awareness program,500+ people,2025-11-23,Structured entry for scaling dataset
+95,Community NGO 95,Kenya,Awareness Program,Organized health camp,300+ people,2025-08-16,Structured entry for scaling dataset
+96,Community NGO 96,India,Food Distribution Drive,Organized health camp,100+ people,2025-03-09,Structured entry for scaling dataset
+97,Community NGO 97,Nepal,Skill Training,Organized awareness program,200+ students,2025-12-12,Structured entry for scaling dataset
+98,Community NGO 98,South Africa,Skill Training,Organized skill training,50+ families,2025-09-05,Structured entry for scaling dataset
+99,Community NGO 99,South Africa,Free Education Camp,Organized skill training,300+ people,2025-04-15,Structured entry for scaling dataset
+100,Community NGO 100,USA,Awareness Program,Organized health camp,300+ people,2025-09-07,Structured entry for scaling dataset
+101,Community NGO 101,UK,Free Education Camp,Organized food distribution drive,500+ people,2025-09-15,Structured entry for scaling dataset
+102,Community NGO 102,Brazil,Skill Training,Organized food distribution drive,200+ students,2025-03-22,Structured entry for scaling dataset
+103,Community NGO 103,USA,Free Education Camp,Organized food distribution drive,50+ families,2025-01-20,Structured entry for scaling dataset
+104,Community NGO 104,Brazil,Skill Training,Organized skill training,300+ people,2025-05-19,Structured entry for scaling dataset
+105,Community NGO 105,USA,Health Camp,Organized skill training,500+ people,2025-05-28,Structured entry for scaling dataset
+106,Community NGO 106,India,Skill Training,Organized food distribution drive,50+ families,2025-05-22,Structured entry for scaling dataset
+107,Community NGO 107,Kenya,Health Camp,Organized free education camp,300+ people,2025-07-02,Structured entry for scaling dataset
+108,Community NGO 108,South Africa,Skill Training,Organized health camp,100+ people,2025-09-12,Structured entry for scaling dataset
+109,Community NGO 109,South Africa,Free Education Camp,Organized awareness program,300+ people,2025-06-16,Structured entry for scaling dataset
+110,Community NGO 110,South Africa,Free Education Camp,Organized health camp,50+ families,2025-01-08,Structured entry for scaling dataset
+111,Community NGO 111,India,Free Education Camp,Organized food distribution drive,100+ people,2025-07-10,Structured entry for scaling dataset
+112,Community NGO 112,Brazil,Skill Training,Organized skill training,200+ students,2025-03-27,Structured entry for scaling dataset
+113,Community NGO 113,Nepal,Awareness Program,Organized skill training,50+ families,2025-11-13,Structured entry for scaling dataset
+114,Community NGO 114,South Africa,Health Camp,Organized skill training,300+ people,2025-12-26,Structured entry for scaling dataset
+115,Community NGO 115,India,Skill Training,Organized awareness program,100+ people,2025-08-21,Structured entry for scaling dataset
+116,Community NGO 116,Nepal,Awareness Program,Organized awareness program,200+ students,2025-11-20,Structured entry for scaling dataset
+117,Community NGO 117,Kenya,Free Education Camp,Organized free education camp,100+ people,2025-12-03,Structured entry for scaling dataset
+118,Community NGO 118,Brazil,Free Education Camp,Organized skill training,100+ people,2025-02-14,Structured entry for scaling dataset
+119,Community NGO 119,UK,Health Camp,Organized skill training,200+ students,2025-07-14,Structured entry for scaling dataset
+120,Community NGO 120,Nepal,Food Distribution Drive,Organized health camp,50+ families,2025-11-15,Structured entry for scaling dataset
+121,Community NGO 121,UK,Awareness Program,Organized awareness program,200+ students,2025-08-03,Structured entry for scaling dataset
+122,Community NGO 122,Kenya,Free Education Camp,Organized free education camp,500+ people,2025-05-24,Structured entry for scaling dataset
+123,Community NGO 123,UK,Food Distribution Drive,Organized free education camp,500+ people,2025-05-03,Structured entry for scaling dataset
+124,Community NGO 124,India,Skill Training,Organized skill training,100+ people,2025-07-17,Structured entry for scaling dataset
+125,Community NGO 125,USA,Free Education Camp,Organized free education camp,100+ people,2025-12-03,Structured entry for scaling dataset
+126,Community NGO 126,India,Awareness Program,Organized skill training,50+ families,2025-02-05,Structured entry for scaling dataset
+127,Community NGO 127,USA,Food Distribution Drive,Organized health camp,50+ families,2025-09-08,Structured entry for scaling dataset
+128,Community NGO 128,India,Skill Training,Organized health camp,50+ families,2025-05-06,Structured entry for scaling dataset
+129,Community NGO 129,India,Health Camp,Organized awareness program,500+ people,2025-07-12,Structured entry for scaling dataset
+130,Community NGO 130,Brazil,Food Distribution Drive,Organized food distribution drive,50+ families,2025-02-17,Structured entry for scaling dataset
+131,Community NGO 131,Nepal,Food Distribution Drive,Organized food distribution drive,300+ people,2025-10-07,Structured entry for scaling dataset
+132,Community NGO 132,Nepal,Awareness Program,Organized food distribution drive,50+ families,2025-07-11,Structured entry for scaling dataset
+133,Community NGO 133,Nepal,Awareness Program,Organized health camp,100+ people,2025-11-03,Structured entry for scaling dataset
+134,Community NGO 134,UK,Health Camp,Organized health camp,50+ families,2025-08-28,Structured entry for scaling dataset
+135,Community NGO 135,Nepal,Awareness Program,Organized free education camp,50+ families,2025-03-07,Structured entry for scaling dataset
+136,Community NGO 136,Nepal,Health Camp,Organized awareness program,50+ families,2025-10-12,Structured entry for scaling dataset
+137,Community NGO 137,USA,Health Camp,Organized free education camp,500+ people,2025-12-01,Structured entry for scaling dataset
+138,Community NGO 138,Kenya,Skill Training,Organized health camp,500+ people,2025-06-04,Structured entry for scaling dataset
+139,Community NGO 139,Kenya,Free Education Camp,Organized free education camp,100+ people,2025-10-04,Structured entry for scaling dataset
+140,Community NGO 140,UK,Food Distribution Drive,Organized free education camp,50+ families,2025-09-22,Structured entry for scaling dataset
+141,Community NGO 141,Kenya,Food Distribution Drive,Organized food distribution drive,100+ people,2025-08-28,Structured entry for scaling dataset
+142,Community NGO 142,USA,Awareness Program,Organized awareness program,500+ people,2025-03-04,Structured entry for scaling dataset
+143,Community NGO 143,Nepal,Skill Training,Organized food distribution drive,50+ families,2025-09-03,Structured entry for scaling dataset
+144,Community NGO 144,Brazil,Awareness Program,Organized skill training,300+ people,2025-08-23,Structured entry for scaling dataset
+145,Community NGO 145,Nepal,Free Education Camp,Organized skill training,200+ students,2025-11-07,Structured entry for scaling dataset
+146,Community NGO 146,Brazil,Free Education Camp,Organized food distribution drive,50+ families,2025-10-01,Structured entry for scaling dataset
+147,Community NGO 147,India,Health Camp,Organized skill training,50+ families,2025-05-12,Structured entry for scaling dataset
+148,Community NGO 148,Kenya,Health Camp,Organized free education camp,300+ people,2025-07-08,Structured entry for scaling dataset
+149,Community NGO 149,India,Health Camp,Organized health camp,300+ people,2025-08-06,Structured entry for scaling dataset
+150,Community NGO 150,USA,Skill Training,Organized health camp,100+ people,2025-09-18,Structured entry for scaling dataset
+151,Community NGO 151,Kenya,Health Camp,Organized food distribution drive,50+ families,2025-04-09,Structured entry for scaling dataset
+152,Community NGO 152,Nepal,Free Education Camp,Organized skill training,200+ students,2025-05-23,Structured entry for scaling dataset
+153,Community NGO 153,UK,Skill Training,Organized awareness program,500+ people,2025-05-17,Structured entry for scaling dataset
+154,Community NGO 154,Kenya,Health Camp,Organized health camp,300+ people,2025-08-06,Structured entry for scaling dataset
+155,Community NGO 155,Nepal,Free Education Camp,Organized health camp,200+ students,2025-07-08,Structured entry for scaling dataset
+156,Community NGO 156,UK,Skill Training,Organized free education camp,50+ families,2025-02-09,Structured entry for scaling dataset
+157,Community NGO 157,Nepal,Health Camp,Organized awareness program,500+ people,2025-10-20,Structured entry for scaling dataset
+158,Community NGO 158,India,Skill Training,Organized health camp,500+ people,2025-02-12,Structured entry for scaling dataset
+159,Community NGO 159,South Africa,Awareness Program,Organized health camp,300+ people,2025-01-20,Structured entry for scaling dataset
+160,Community NGO 160,Brazil,Free Education Camp,Organized health camp,50+ families,2025-01-07,Structured entry for scaling dataset
+161,Community NGO 161,Kenya,Skill Training,Organized health camp,50+ families,2025-08-25,Structured entry for scaling dataset
+162,Community NGO 162,USA,Awareness Program,Organized free education camp,200+ students,2025-05-26,Structured entry for scaling dataset
+163,Community NGO 163,Nepal,Free Education Camp,Organized food distribution drive,300+ people,2025-07-19,Structured entry for scaling dataset
+164,Community NGO 164,USA,Health Camp,Organized free education camp,500+ people,2025-11-06,Structured entry for scaling dataset
+165,Community NGO 165,South Africa,Food Distribution Drive,Organized health camp,100+ people,2025-11-14,Structured entry for scaling dataset
+166,Community NGO 166,Kenya,Health Camp,Organized free education camp,300+ people,2025-07-03,Structured entry for scaling dataset
+167,Community NGO 167,India,Free Education Camp,Organized health camp,50+ families,2025-02-07,Structured entry for scaling dataset
+168,Community NGO 168,UK,Awareness Program,Organized food distribution drive,200+ students,2025-06-04,Structured entry for scaling dataset
+169,Community NGO 169,Nepal,Skill Training,Organized awareness program,300+ people,2025-05-09,Structured entry for scaling dataset
+170,Community NGO 170,Nepal,Skill Training,Organized skill training,500+ people,2025-03-02,Structured entry for scaling dataset
+171,Community NGO 171,Brazil,Free Education Camp,Organized health camp,500+ people,2025-08-25,Structured entry for scaling dataset
+172,Community NGO 172,India,Free Education Camp,Organized skill training,500+ people,2025-08-21,Structured entry for scaling dataset
+173,Community NGO 173,India,Free Education Camp,Organized free education camp,300+ people,2025-06-15,Structured entry for scaling dataset
+174,Community NGO 174,UK,Free Education Camp,Organized free education camp,100+ people,2025-08-12,Structured entry for scaling dataset
+175,Community NGO 175,South Africa,Health Camp,Organized food distribution drive,100+ people,2025-07-20,Structured entry for scaling dataset
+176,Community NGO 176,USA,Skill Training,Organized awareness program,50+ families,2025-04-17,Structured entry for scaling dataset
+177,Community NGO 177,Kenya,Free Education Camp,Organized free education camp,50+ families,2025-09-25,Structured entry for scaling dataset
+178,Community NGO 178,India,Free Education Camp,Organized health camp,100+ people,2025-09-17,Structured entry for scaling dataset
+179,Community NGO 179,UK,Awareness Program,Organized free education camp,100+ people,2025-06-26,Structured entry for scaling dataset
+180,Community NGO 180,Nepal,Skill Training,Organized awareness program,200+ students,2025-03-07,Structured entry for scaling dataset
+181,Community NGO 181,India,Food Distribution Drive,Organized food distribution drive,200+ students,2025-12-28,Structured entry for scaling dataset
+182,Community NGO 182,Kenya,Free Education Camp,Organized health camp,300+ people,2025-01-23,Structured entry for scaling dataset
+183,Community NGO 183,South Africa,Food Distribution Drive,Organized skill training,500+ people,2025-02-13,Structured entry for scaling dataset
+184,Community NGO 184,Brazil,Free Education Camp,Organized free education camp,50+ families,2025-11-27,Structured entry for scaling dataset
+185,Community NGO 185,Kenya,Health Camp,Organized awareness program,100+ people,2025-12-02,Structured entry for scaling dataset
+186,Community NGO 186,Kenya,Health Camp,Organized skill training,50+ families,2025-02-24,Structured entry for scaling dataset
+187,Community NGO 187,South Africa,Health Camp,Organized skill training,200+ students,2025-01-23,Structured entry for scaling dataset
+188,Community NGO 188,Kenya,Skill Training,Organized free education camp,200+ students,2025-08-08,Structured entry for scaling dataset
+189,Community NGO 189,India,Health Camp,Organized skill training,200+ students,2025-12-17,Structured entry for scaling dataset
+190,Community NGO 190,UK,Awareness Program,Organized awareness program,200+ students,2025-01-19,Structured entry for scaling dataset
+191,Community NGO 191,South Africa,Free Education Camp,Organized food distribution drive,100+ people,2025-05-14,Structured entry for scaling dataset
+192,Community NGO 192,UK,Free Education Camp,Organized food distribution drive,500+ people,2025-06-10,Structured entry for scaling dataset
+193,Community NGO 193,USA,Food Distribution Drive,Organized food distribution drive,300+ people,2025-05-27,Structured entry for scaling dataset
+194,Community NGO 194,USA,Food Distribution Drive,Organized awareness program,50+ families,2025-02-20,Structured entry for scaling dataset
+195,Community NGO 195,USA,Awareness Program,Organized food distribution drive,100+ people,2025-02-12,Structured entry for scaling dataset
+196,Community NGO 196,Brazil,Health Camp,Organized free education camp,300+ people,2025-08-25,Structured entry for scaling dataset
+197,Community NGO 197,Nepal,Awareness Program,Organized awareness program,100+ people,2025-05-16,Structured entry for scaling dataset
+198,Community NGO 198,Kenya,Awareness Program,Organized health camp,50+ families,2025-12-19,Structured entry for scaling dataset
+199,Community NGO 199,India,Skill Training,Organized awareness program,50+ families,2025-06-13,Structured entry for scaling dataset
+200,Community NGO 200,Nepal,Skill Training,Organized skill training,500+ people,2025-02-07,Structured entry for scaling dataset
+201,Community NGO 201,India,Free Education Camp,Organized awareness program,100+ people,2025-03-22,Structured entry for scaling dataset
+202,Community NGO 202,India,Health Camp,Organized food distribution drive,500+ people,2025-08-17,Structured entry for scaling dataset
+203,Community NGO 203,India,Health Camp,Organized awareness program,100+ people,2025-06-28,Structured entry for scaling dataset
+204,Community NGO 204,UK,Awareness Program,Organized free education camp,100+ people,2025-04-18,Structured entry for scaling dataset
+205,Community NGO 205,Nepal,Free Education Camp,Organized awareness program,100+ people,2025-03-26,Structured entry for scaling dataset
+206,Community NGO 206,South Africa,Awareness Program,Organized awareness program,500+ people,2025-12-12,Structured entry for scaling dataset
+207,Community NGO 207,USA,Free Education Camp,Organized food distribution drive,300+ people,2025-06-06,Structured entry for scaling dataset
+208,Community NGO 208,Brazil,Awareness Program,Organized free education camp,100+ people,2025-02-25,Structured entry for scaling dataset
+209,Community NGO 209,UK,Awareness Program,Organized food distribution drive,50+ families,2025-08-14,Structured entry for scaling dataset
+210,Community NGO 210,UK,Food Distribution Drive,Organized free education camp,500+ people,2025-11-23,Structured entry for scaling dataset
+211,Community NGO 211,Nepal,Food Distribution Drive,Organized health camp,300+ people,2025-12-13,Structured entry for scaling dataset
+212,Community NGO 212,South Africa,Free Education Camp,Organized skill training,50+ families,2025-09-15,Structured entry for scaling dataset
+213,Community NGO 213,South Africa,Awareness Program,Organized free education camp,300+ people,2025-11-06,Structured entry for scaling dataset
+214,Community NGO 214,Nepal,Awareness Program,Organized awareness program,500+ people,2025-09-26,Structured entry for scaling dataset
+215,Community NGO 215,Brazil,Awareness Program,Organized health camp,50+ families,2025-05-18,Structured entry for scaling dataset
+216,Community NGO 216,Nepal,Free Education Camp,Organized awareness program,200+ students,2025-03-23,Structured entry for scaling dataset
+217,Community NGO 217,Nepal,Skill Training,Organized health camp,500+ people,2025-02-18,Structured entry for scaling dataset
+218,Community NGO 218,Nepal,Food Distribution Drive,Organized awareness program,100+ people,2025-09-12,Structured entry for scaling dataset
+219,Community NGO 219,UK,Awareness Program,Organized food distribution drive,300+ people,2025-07-01,Structured entry for scaling dataset
+220,Community NGO 220,Nepal,Health Camp,Organized free education camp,50+ families,2025-05-18,Structured entry for scaling dataset
+221,Community NGO 221,India,Food Distribution Drive,Organized food distribution drive,50+ families,2025-03-12,Structured entry for scaling dataset
+222,Community NGO 222,South Africa,Skill Training,Organized skill training,50+ families,2025-05-05,Structured entry for scaling dataset
+223,Community NGO 223,India,Health Camp,Organized food distribution drive,100+ people,2025-09-01,Structured entry for scaling dataset
+224,Community NGO 224,UK,Skill Training,Organized food distribution drive,100+ people,2025-10-04,Structured entry for scaling dataset
+225,Community NGO 225,South Africa,Health Camp,Organized food distribution drive,100+ people,2025-10-21,Structured entry for scaling dataset
+226,Community NGO 226,India,Awareness Program,Organized food distribution drive,200+ students,2025-01-20,Structured entry for scaling dataset
+227,Community NGO 227,Nepal,Health Camp,Organized health camp,200+ students,2025-02-13,Structured entry for scaling dataset
+228,Community NGO 228,Brazil,Health Camp,Organized food distribution drive,100+ people,2025-07-25,Structured entry for scaling dataset
+229,Community NGO 229,Kenya,Awareness Program,Organized awareness program,300+ people,2025-09-11,Structured entry for scaling dataset
+230,Community NGO 230,South Africa,Food Distribution Drive,Organized awareness program,300+ people,2025-03-20,Structured entry for scaling dataset
+231,Community NGO 231,USA,Awareness Program,Organized food distribution drive,200+ students,2025-02-14,Structured entry for scaling dataset
+232,Community NGO 232,USA,Skill Training,Organized skill training,300+ people,2025-10-05,Structured entry for scaling dataset
+233,Community NGO 233,South Africa,Skill Training,Organized food distribution drive,300+ people,2025-08-15,Structured entry for scaling dataset
+234,Community NGO 234,USA,Food Distribution Drive,Organized food distribution drive,100+ people,2025-04-17,Structured entry for scaling dataset
+235,Community NGO 235,USA,Skill Training,Organized skill training,300+ people,2025-12-02,Structured entry for scaling dataset
+236,Community NGO 236,USA,Food Distribution Drive,Organized health camp,300+ people,2025-11-23,Structured entry for scaling dataset
+237,Community NGO 237,USA,Free Education Camp,Organized food distribution drive,300+ people,2025-05-03,Structured entry for scaling dataset
+238,Community NGO 238,Brazil,Free Education Camp,Organized awareness program,200+ students,2025-10-07,Structured entry for scaling dataset
+239,Community NGO 239,UK,Skill Training,Organized awareness program,100+ people,2025-07-12,Structured entry for scaling dataset
+240,Community NGO 240,Nepal,Awareness Program,Organized awareness program,200+ students,2025-08-28,Structured entry for scaling dataset
+241,Community NGO 241,Brazil,Skill Training,Organized skill training,100+ people,2025-11-12,Structured entry for scaling dataset
+242,Community NGO 242,India,Food Distribution Drive,Organized food distribution drive,300+ people,2025-06-20,Structured entry for scaling dataset
+243,Community NGO 243,UK,Free Education Camp,Organized food distribution drive,200+ students,2025-03-11,Structured entry for scaling dataset
+244,Community NGO 244,USA,Awareness Program,Organized health camp,100+ people,2025-05-21,Structured entry for scaling dataset
+245,Community NGO 245,South Africa,Health Camp,Organized awareness program,100+ people,2025-10-10,Structured entry for scaling dataset
+246,Community NGO 246,UK,Skill Training,Organized awareness program,300+ people,2025-08-05,Structured entry for scaling dataset
+247,Community NGO 247,Brazil,Health Camp,Organized skill training,500+ people,2025-07-07,Structured entry for scaling dataset
+248,Community NGO 248,India,Free Education Camp,Organized health camp,50+ families,2025-11-12,Structured entry for scaling dataset
+249,Community NGO 249,India,Awareness Program,Organized awareness program,100+ people,2025-11-12,Structured entry for scaling dataset
+250,Community NGO 250,Kenya,Health Camp,Organized awareness program,500+ people,2025-04-03,Structured entry for scaling dataset
