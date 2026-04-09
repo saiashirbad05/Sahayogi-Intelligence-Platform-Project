@@ -1,0 +1,801 @@
+Record_ID,Year,Month,State,District,Data_Source,Population,ANC_Registrations,Immunization,Malaria_Cases,Dengue_Cases,TB_Cases
+REC0001,2024,Apr,Maharashtra,Mumbai,National Health Mission (NHM),146520,144,604,59,122,46
+REC0002,2025,May,Uttar Pradesh,Varanasi,CARE India,82155,258,635,138,136,11
+REC0003,2022,Apr,Uttar Pradesh,Lucknow,WHO India,141526,495,396,132,117,19
+REC0004,2024,Feb,Uttar Pradesh,Lucknow,NFHS Survey,174170,568,490,22,38,14
+REC0005,2022,Mar,Karnataka,Mysuru,WHO India,195036,115,1211,16,80,56
+REC0006,2024,Mar,Tamil Nadu,Chennai,Doctors For You,115516,574,1203,182,104,86
+REC0007,2021,Jun,Maharashtra,Mumbai,NFHS Survey,52343,925,323,130,140,87
+REC0008,2024,Jan,Karnataka,Mysuru,CARE India,98988,300,1306,58,36,42
+REC0009,2024,Feb,Uttar Pradesh,Varanasi,HMIS Portal India,192940,265,859,190,106,18
+REC0010,2023,Jan,Uttar Pradesh,Varanasi,HMIS Portal India,82101,754,1131,199,21,67
+REC0011,2025,Jun,Maharashtra,Pune,WHO India,160782,195,954,136,25,79
+REC0012,2023,Feb,Uttar Pradesh,Lucknow,HMIS Portal India,147842,671,226,188,131,50
+REC0013,2024,Jan,Tamil Nadu,Chennai,NFHS Survey,151401,498,960,3,99,52
+REC0014,2022,Apr,Maharashtra,Mumbai,WHO India,163432,472,615,20,125,40
+REC0015,2024,Jun,Uttar Pradesh,Varanasi,HMIS Portal India,128767,395,838,22,98,26
+REC0016,2024,Mar,Uttar Pradesh,Varanasi,National Health Mission (NHM),183812,643,1303,175,31,55
+REC0017,2023,Mar,Maharashtra,Mumbai,Smile Foundation,160238,395,659,106,39,37
+REC0018,2025,Jun,Tamil Nadu,Chennai,WHO India,56207,899,201,33,76,76
+REC0019,2021,Jun,Tamil Nadu,Chennai,Smile Foundation,188212,166,484,15,114,18
+REC0020,2023,Jan,Karnataka,Bengaluru,WHO India,139997,492,609,186,114,15
+REC0021,2024,Jun,Maharashtra,Pune,NFHS Survey,172202,613,463,63,131,39
+REC0022,2025,Jan,Karnataka,Bengaluru,HMIS Portal India,62597,960,970,118,82,19
+REC0023,2021,Feb,Uttar Pradesh,Lucknow,NFHS Survey,82173,1000,1330,5,4,71
+REC0024,2024,Feb,Maharashtra,Mumbai,CARE India,132233,956,589,44,119,83
+REC0025,2022,Jun,Uttar Pradesh,Lucknow,WHO India,150128,451,222,134,76,59
+REC0026,2021,Mar,Karnataka,Bengaluru,National Health Mission (NHM),110811,391,511,43,63,47
+REC0027,2025,Mar,Tamil Nadu,Madurai,CARE India,160536,788,1117,60,56,98
+REC0028,2024,Jun,Karnataka,Mysuru,Doctors For You,135454,135,1031,59,9,58
+REC0029,2022,Feb,Uttar Pradesh,Varanasi,National Health Mission (NHM),71524,566,1139,160,44,20
+REC0030,2021,Jun,Tamil Nadu,Chennai,Doctors For You,131994,527,772,64,54,88
+REC0031,2025,May,Uttar Pradesh,Varanasi,WHO India,84570,851,1086,185,82,57
+REC0032,2021,Jan,Uttar Pradesh,Varanasi,National Health Mission (NHM),178058,880,202,87,35,48
+REC0033,2022,Jun,Uttar Pradesh,Lucknow,National Health Mission (NHM),51717,594,1055,76,0,88
+REC0034,2025,Jan,Uttar Pradesh,Varanasi,National Health Mission (NHM),51483,385,602,117,70,28
+REC0035,2024,Jan,Tamil Nadu,Madurai,WHO India,60617,975,977,38,46,64
+REC0036,2023,Mar,Karnataka,Mysuru,Doctors For You,188519,316,622,83,115,0
+REC0037,2021,Feb,Uttar Pradesh,Varanasi,National Health Mission (NHM),104013,155,1263,5,146,81
+REC0038,2025,May,Tamil Nadu,Chennai,Smile Foundation,160159,735,551,62,61,28
+REC0039,2021,Feb,Uttar Pradesh,Varanasi,HMIS Portal India,93613,966,784,81,103,73
+REC0040,2023,Jan,Maharashtra,Pune,Doctors For You,91852,976,613,43,90,85
+REC0041,2024,Jan,Maharashtra,Pune,CARE India,182531,652,1112,181,23,70
+REC0042,2023,Mar,Uttar Pradesh,Varanasi,NFHS Survey,168325,710,231,17,53,99
+REC0043,2021,May,Maharashtra,Mumbai,Smile Foundation,138722,359,212,157,123,21
+REC0044,2021,Jan,Uttar Pradesh,Lucknow,NFHS Survey,63758,401,614,122,140,69
+REC0045,2021,Mar,Uttar Pradesh,Varanasi,HMIS Portal India,59512,684,292,149,114,46
+REC0046,2022,May,Tamil Nadu,Madurai,WHO India,135916,766,1469,37,93,14
+REC0047,2022,Mar,Maharashtra,Mumbai,Smile Foundation,141640,733,357,170,88,35
+REC0048,2022,Feb,Tamil Nadu,Madurai,WHO India,144172,704,979,173,114,32
+REC0049,2021,Mar,Maharashtra,Pune,Smile Foundation,109149,696,1155,47,77,29
+REC0050,2022,Jan,Uttar Pradesh,Varanasi,WHO India,62543,562,901,194,51,86
+REC0051,2023,Jun,Maharashtra,Mumbai,WHO India,188198,110,640,93,8,39
+REC0052,2025,May,Karnataka,Bengaluru,HMIS Portal India,111249,305,888,84,145,50
+REC0053,2022,Apr,Maharashtra,Mumbai,HMIS Portal India,182914,608,669,192,129,10
+REC0054,2021,Jun,Tamil Nadu,Chennai,CARE India,176054,210,688,48,81,9
+REC0055,2024,Mar,Uttar Pradesh,Varanasi,NFHS Survey,168182,618,1471,156,105,22
+REC0056,2021,Apr,Tamil Nadu,Chennai,National Health Mission (NHM),103773,754,340,60,28,10
+REC0057,2021,Apr,Tamil Nadu,Chennai,Smile Foundation,174705,783,210,37,148,7
+REC0058,2024,Jun,Tamil Nadu,Chennai,Smile Foundation,199852,590,1365,45,137,15
+REC0059,2021,May,Maharashtra,Pune,WHO India,100381,716,1212,62,78,28
+REC0060,2021,Jun,Tamil Nadu,Chennai,NFHS Survey,134385,172,580,177,57,32
+REC0061,2025,May,Tamil Nadu,Madurai,Smile Foundation,65102,136,1119,196,60,97
+REC0062,2023,Jun,Tamil Nadu,Madurai,WHO India,82797,629,1496,167,51,100
+REC0063,2021,Feb,Uttar Pradesh,Varanasi,HMIS Portal India,117313,299,1262,170,99,95
+REC0064,2023,Mar,Karnataka,Bengaluru,CARE India,164679,646,932,143,21,64
+REC0065,2023,Jan,Karnataka,Mysuru,Doctors For You,173220,857,405,169,148,95
+REC0066,2025,Apr,Maharashtra,Pune,HMIS Portal India,168898,545,884,91,61,59
+REC0067,2025,Jun,Uttar Pradesh,Lucknow,NFHS Survey,118133,796,1314,158,106,81
+REC0068,2023,Jan,Maharashtra,Mumbai,WHO India,81276,984,526,108,65,53
+REC0069,2023,Jan,Tamil Nadu,Madurai,WHO India,62408,525,944,10,29,80
+REC0070,2023,Feb,Tamil Nadu,Chennai,HMIS Portal India,140658,637,1488,155,51,5
+REC0071,2023,Jun,Tamil Nadu,Madurai,Doctors For You,185583,768,1423,15,35,18
+REC0072,2021,Mar,Maharashtra,Pune,NFHS Survey,186782,550,830,60,91,46
+REC0073,2023,Mar,Karnataka,Mysuru,Smile Foundation,74748,791,413,200,57,42
+REC0074,2024,May,Tamil Nadu,Chennai,WHO India,76905,686,442,106,73,7
+REC0075,2023,Jun,Uttar Pradesh,Varanasi,Smile Foundation,140190,564,669,158,103,2
+REC0076,2024,Jun,Karnataka,Bengaluru,CARE India,123462,196,263,32,95,98
+REC0077,2024,Jan,Maharashtra,Mumbai,Doctors For You,115886,604,1284,132,62,11
+REC0078,2022,May,Karnataka,Mysuru,Smile Foundation,98620,973,871,94,140,10
+REC0079,2021,May,Uttar Pradesh,Lucknow,CARE India,113782,828,501,16,31,32
+REC0080,2021,Mar,Maharashtra,Pune,WHO India,129832,737,1408,127,10,54
+REC0081,2023,Feb,Uttar Pradesh,Varanasi,Smile Foundation,167638,524,1254,30,24,82
+REC0082,2022,Mar,Uttar Pradesh,Varanasi,National Health Mission (NHM),142079,331,479,148,56,66
+REC0083,2023,Jun,Karnataka,Mysuru,CARE India,124284,958,298,179,98,24
+REC0084,2025,Jan,Uttar Pradesh,Lucknow,Doctors For You,110559,403,431,79,57,2
+REC0085,2025,Apr,Maharashtra,Pune,Doctors For You,117400,543,449,39,36,76
+REC0086,2021,Jun,Tamil Nadu,Madurai,NFHS Survey,85156,122,330,65,52,89
+REC0087,2025,Apr,Maharashtra,Mumbai,HMIS Portal India,97840,384,805,56,92,95
+REC0088,2021,Jun,Tamil Nadu,Madurai,HMIS Portal India,85413,782,1299,98,147,45
+REC0089,2025,Jan,Tamil Nadu,Madurai,CARE India,102390,857,1006,119,49,80
+REC0090,2024,Jun,Uttar Pradesh,Lucknow,WHO India,55252,386,695,12,96,22
+REC0091,2022,Feb,Uttar Pradesh,Varanasi,National Health Mission (NHM),163545,841,1331,149,148,89
+REC0092,2021,May,Karnataka,Mysuru,CARE India,118563,321,857,93,102,32
+REC0093,2023,May,Tamil Nadu,Madurai,NFHS Survey,73209,529,564,146,4,53
+REC0094,2023,Jan,Uttar Pradesh,Varanasi,CARE India,181233,778,233,180,14,97
+REC0095,2021,May,Karnataka,Mysuru,Smile Foundation,199162,218,996,174,104,79
+REC0096,2022,Feb,Karnataka,Mysuru,National Health Mission (NHM),146628,148,654,193,112,88
+REC0097,2024,Jun,Uttar Pradesh,Lucknow,HMIS Portal India,157459,909,392,79,84,88
+REC0098,2022,May,Maharashtra,Mumbai,Doctors For You,55296,482,1462,165,74,86
+REC0099,2022,Feb,Karnataka,Bengaluru,Smile Foundation,109440,856,270,64,14,13
+REC0100,2022,Mar,Tamil Nadu,Madurai,Smile Foundation,183658,781,362,179,123,6
+REC0101,2023,May,Tamil Nadu,Chennai,CARE India,113555,368,550,60,53,18
+REC0102,2022,Apr,Uttar Pradesh,Varanasi,Smile Foundation,76472,250,694,120,32,56
+REC0103,2024,Jan,Tamil Nadu,Madurai,Doctors For You,169019,576,388,112,130,86
+REC0104,2021,Feb,Maharashtra,Pune,NFHS Survey,101360,490,411,59,129,20
+REC0105,2021,Mar,Tamil Nadu,Madurai,CARE India,136326,321,1371,130,40,91
+REC0106,2022,Jan,Uttar Pradesh,Varanasi,Doctors For You,65669,413,278,9,120,77
+REC0107,2022,Feb,Karnataka,Bengaluru,CARE India,82427,125,332,10,31,96
+REC0108,2021,Jan,Karnataka,Bengaluru,HMIS Portal India,182463,113,393,134,76,17
+REC0109,2023,Feb,Maharashtra,Mumbai,CARE India,55320,751,649,64,31,46
+REC0110,2022,Feb,Tamil Nadu,Madurai,Smile Foundation,103282,286,861,135,92,76
+REC0111,2022,May,Tamil Nadu,Madurai,CARE India,94824,342,479,195,84,1
+REC0112,2025,Mar,Tamil Nadu,Chennai,Smile Foundation,108067,704,1253,125,27,65
+REC0113,2023,Jan,Uttar Pradesh,Lucknow,WHO India,173668,326,1450,178,102,65
+REC0114,2022,May,Uttar Pradesh,Varanasi,NFHS Survey,100456,254,1207,1,134,5
+REC0115,2022,Apr,Karnataka,Bengaluru,NFHS Survey,169945,956,1304,184,63,14
+REC0116,2023,Jun,Karnataka,Mysuru,Smile Foundation,169461,699,1261,57,14,64
+REC0117,2023,Jan,Maharashtra,Mumbai,Doctors For You,151276,434,395,105,84,23
+REC0118,2023,Feb,Karnataka,Mysuru,National Health Mission (NHM),58696,467,1009,197,17,34
+REC0119,2024,Jun,Uttar Pradesh,Lucknow,Smile Foundation,130539,977,1439,91,87,84
+REC0120,2021,Apr,Maharashtra,Mumbai,National Health Mission (NHM),130103,381,1016,33,36,24
+REC0121,2025,Jan,Uttar Pradesh,Lucknow,HMIS Portal India,182897,424,686,70,13,16
+REC0122,2022,Apr,Maharashtra,Mumbai,Smile Foundation,164242,337,877,180,135,70
+REC0123,2025,May,Maharashtra,Pune,WHO India,181217,955,1382,80,38,15
+REC0124,2024,Jan,Karnataka,Mysuru,Smile Foundation,179116,162,650,155,4,69
+REC0125,2021,Mar,Karnataka,Mysuru,National Health Mission (NHM),195049,431,1463,74,26,68
+REC0126,2025,Mar,Tamil Nadu,Madurai,HMIS Portal India,191941,862,1467,41,64,95
+REC0127,2024,Apr,Tamil Nadu,Chennai,Doctors For You,163085,916,679,187,1,24
+REC0128,2023,Mar,Karnataka,Bengaluru,HMIS Portal India,186679,869,1269,133,146,66
+REC0129,2022,Feb,Uttar Pradesh,Varanasi,Doctors For You,121592,462,530,195,46,80
+REC0130,2021,Jun,Uttar Pradesh,Varanasi,Smile Foundation,80942,850,808,164,49,84
+REC0131,2025,May,Karnataka,Mysuru,Doctors For You,127484,108,448,189,88,12
+REC0132,2023,Apr,Uttar Pradesh,Varanasi,National Health Mission (NHM),130778,107,1150,126,17,37
+REC0133,2021,Feb,Karnataka,Bengaluru,Smile Foundation,107751,942,930,181,120,70
+REC0134,2023,Mar,Maharashtra,Mumbai,HMIS Portal India,187948,630,1125,5,129,13
+REC0135,2022,Feb,Karnataka,Bengaluru,HMIS Portal India,129895,834,1312,196,49,60
+REC0136,2022,May,Uttar Pradesh,Lucknow,HMIS Portal India,199263,208,1354,144,140,76
+REC0137,2023,Jan,Uttar Pradesh,Lucknow,National Health Mission (NHM),60206,524,418,77,136,19
+REC0138,2021,Jun,Uttar Pradesh,Lucknow,HMIS Portal India,175312,504,595,189,124,84
+REC0139,2023,Jun,Uttar Pradesh,Varanasi,WHO India,87353,107,355,25,138,67
+REC0140,2023,Mar,Karnataka,Bengaluru,CARE India,150940,241,664,168,26,43
+REC0141,2023,May,Uttar Pradesh,Lucknow,WHO India,57619,628,493,70,19,100
+REC0142,2022,May,Maharashtra,Mumbai,Smile Foundation,82599,308,1030,105,32,80
+REC0143,2022,Apr,Tamil Nadu,Chennai,Doctors For You,125586,932,637,174,2,44
+REC0144,2021,Apr,Uttar Pradesh,Varanasi,Smile Foundation,169005,102,1043,192,146,71
+REC0145,2021,Apr,Tamil Nadu,Madurai,CARE India,161223,264,1037,137,71,62
+REC0146,2022,Mar,Karnataka,Bengaluru,Doctors For You,143905,517,589,87,134,69
+REC0147,2024,Mar,Karnataka,Mysuru,Doctors For You,199979,212,777,28,112,55
+REC0148,2024,Feb,Karnataka,Mysuru,NFHS Survey,196774,637,276,185,55,66
+REC0149,2025,Jan,Karnataka,Mysuru,Doctors For You,150657,193,212,38,74,59
+REC0150,2023,Jan,Karnataka,Mysuru,CARE India,186047,493,1007,193,59,40
+REC0151,2021,Feb,Karnataka,Bengaluru,CARE India,173069,906,737,169,142,67
+REC0152,2024,Jan,Karnataka,Bengaluru,NFHS Survey,101412,217,560,9,116,84
+REC0153,2025,Mar,Maharashtra,Mumbai,NFHS Survey,79603,772,976,193,42,57
+REC0154,2024,Apr,Tamil Nadu,Chennai,WHO India,94761,986,694,104,133,32
+REC0155,2025,Mar,Maharashtra,Mumbai,HMIS Portal India,76613,779,1077,154,136,26
+REC0156,2024,Feb,Uttar Pradesh,Varanasi,HMIS Portal India,140186,910,1459,22,96,58
+REC0157,2023,Apr,Tamil Nadu,Madurai,National Health Mission (NHM),194811,555,887,109,71,25
+REC0158,2023,Mar,Uttar Pradesh,Lucknow,Smile Foundation,146662,158,745,92,97,44
+REC0159,2025,May,Maharashtra,Mumbai,National Health Mission (NHM),66131,506,1077,98,112,63
+REC0160,2025,Feb,Tamil Nadu,Chennai,NFHS Survey,114681,903,225,191,103,94
+REC0161,2022,Feb,Tamil Nadu,Madurai,National Health Mission (NHM),155589,592,622,158,100,44
+REC0162,2022,Mar,Maharashtra,Pune,WHO India,82634,446,873,143,109,70
+REC0163,2021,Jan,Tamil Nadu,Chennai,HMIS Portal India,95693,967,1006,192,52,59
+REC0164,2021,Apr,Maharashtra,Mumbai,NFHS Survey,155214,133,730,94,112,0
+REC0165,2021,Apr,Karnataka,Bengaluru,National Health Mission (NHM),63647,627,292,16,27,52
+REC0166,2024,Jan,Tamil Nadu,Chennai,National Health Mission (NHM),164855,849,730,27,139,86
+REC0167,2022,Jan,Karnataka,Bengaluru,Doctors For You,67298,573,817,2,67,47
+REC0168,2023,Jan,Uttar Pradesh,Varanasi,WHO India,77807,300,246,121,45,31
+REC0169,2024,Jun,Uttar Pradesh,Varanasi,CARE India,76783,821,323,93,98,75
+REC0170,2022,Feb,Tamil Nadu,Chennai,Doctors For You,71137,324,354,183,37,59
+REC0171,2022,Jan,Maharashtra,Mumbai,Smile Foundation,177608,396,1213,17,10,80
+REC0172,2025,Feb,Maharashtra,Pune,WHO India,102047,839,215,168,58,23
+REC0173,2024,Apr,Uttar Pradesh,Varanasi,CARE India,156727,658,1059,173,38,23
+REC0174,2021,Mar,Uttar Pradesh,Lucknow,National Health Mission (NHM),129519,435,906,8,89,76
+REC0175,2023,Mar,Uttar Pradesh,Varanasi,NFHS Survey,104058,112,588,53,78,36
+REC0176,2021,May,Uttar Pradesh,Lucknow,National Health Mission (NHM),128761,334,790,173,88,24
+REC0177,2022,Apr,Uttar Pradesh,Varanasi,Doctors For You,190950,784,1325,24,14,68
+REC0178,2022,May,Uttar Pradesh,Varanasi,HMIS Portal India,91048,243,791,75,90,36
+REC0179,2024,Mar,Maharashtra,Mumbai,Smile Foundation,61754,375,681,96,139,88
+REC0180,2024,Jun,Maharashtra,Pune,HMIS Portal India,63271,952,1206,85,122,20
+REC0181,2025,Apr,Tamil Nadu,Chennai,Smile Foundation,118328,169,677,172,2,88
+REC0182,2021,May,Maharashtra,Pune,HMIS Portal India,174619,101,823,198,136,12
+REC0183,2023,Jun,Uttar Pradesh,Lucknow,CARE India,92654,272,459,158,72,7
+REC0184,2023,Jan,Maharashtra,Pune,HMIS Portal India,125360,203,426,64,112,50
+REC0185,2023,Apr,Maharashtra,Pune,Smile Foundation,151794,388,816,81,66,24
+REC0186,2021,Jun,Karnataka,Mysuru,Doctors For You,163091,733,1071,51,19,64
+REC0187,2023,Feb,Tamil Nadu,Madurai,CARE India,51659,441,713,96,77,86
+REC0188,2021,Apr,Maharashtra,Mumbai,NFHS Survey,93697,862,868,188,92,38
+REC0189,2022,Mar,Maharashtra,Pune,WHO India,121350,356,538,19,141,86
+REC0190,2023,Feb,Karnataka,Mysuru,HMIS Portal India,81031,573,730,72,127,70
+REC0191,2025,Mar,Tamil Nadu,Chennai,National Health Mission (NHM),161638,112,943,185,65,51
+REC0192,2021,Jan,Tamil Nadu,Chennai,Smile Foundation,106479,219,1231,106,110,6
+REC0193,2021,Apr,Karnataka,Mysuru,NFHS Survey,169591,567,1008,34,37,86
+REC0194,2022,May,Tamil Nadu,Chennai,Smile Foundation,79889,477,578,198,93,29
+REC0195,2022,Jun,Maharashtra,Mumbai,Smile Foundation,128508,736,935,69,48,10
+REC0196,2022,Jan,Tamil Nadu,Madurai,CARE India,59219,191,206,56,50,33
+REC0197,2021,Jan,Maharashtra,Mumbai,CARE India,53723,954,1199,77,38,11
+REC0198,2023,May,Uttar Pradesh,Lucknow,National Health Mission (NHM),109753,863,1378,108,32,45
+REC0199,2025,May,Karnataka,Mysuru,NFHS Survey,182728,304,1487,189,57,38
+REC0200,2025,Jun,Tamil Nadu,Chennai,WHO India,62484,896,1478,151,116,80
+REC0201,2025,Mar,Karnataka,Mysuru,NFHS Survey,140336,627,1203,105,142,61
+REC0202,2021,Feb,Tamil Nadu,Madurai,NFHS Survey,195861,850,1149,125,143,79
+REC0203,2024,Mar,Uttar Pradesh,Lucknow,Doctors For You,170743,507,505,133,81,87
+REC0204,2022,Jun,Uttar Pradesh,Lucknow,Doctors For You,175250,716,1138,22,34,100
+REC0205,2024,Feb,Tamil Nadu,Chennai,Smile Foundation,98484,169,828,158,10,89
+REC0206,2021,Mar,Maharashtra,Pune,HMIS Portal India,159982,207,1264,61,46,26
+REC0207,2021,Jan,Tamil Nadu,Madurai,NFHS Survey,84774,764,1450,131,64,12
+REC0208,2024,Feb,Uttar Pradesh,Lucknow,Doctors For You,139649,147,1474,115,113,38
+REC0209,2025,Jun,Maharashtra,Mumbai,National Health Mission (NHM),196701,710,1483,158,109,52
+REC0210,2024,Feb,Karnataka,Mysuru,National Health Mission (NHM),59764,201,996,194,48,36
+REC0211,2021,Jan,Karnataka,Mysuru,CARE India,143750,182,461,16,55,25
+REC0212,2025,Jun,Karnataka,Bengaluru,WHO India,126919,595,362,8,73,51
+REC0213,2021,Jan,Uttar Pradesh,Varanasi,NFHS Survey,195045,529,1010,120,10,83
+REC0214,2023,Jun,Maharashtra,Pune,National Health Mission (NHM),117492,344,1260,170,97,49
+REC0215,2022,Jan,Maharashtra,Pune,CARE India,82870,135,997,198,103,47
+REC0216,2022,Mar,Maharashtra,Mumbai,Smile Foundation,112824,727,1200,21,93,58
+REC0217,2025,Jun,Karnataka,Mysuru,National Health Mission (NHM),147805,887,1167,180,78,63
+REC0218,2022,Mar,Karnataka,Mysuru,Smile Foundation,194419,515,255,153,41,18
+REC0219,2023,Jun,Uttar Pradesh,Varanasi,WHO India,71534,729,1080,180,121,10
+REC0220,2023,May,Uttar Pradesh,Lucknow,NFHS Survey,126952,899,332,168,10,44
+REC0221,2025,May,Uttar Pradesh,Varanasi,HMIS Portal India,78562,696,1160,77,50,13
+REC0222,2022,Apr,Karnataka,Bengaluru,Doctors For You,59762,719,751,139,18,28
+REC0223,2023,Jan,Tamil Nadu,Madurai,National Health Mission (NHM),67394,669,960,103,31,1
+REC0224,2021,Mar,Karnataka,Bengaluru,HMIS Portal India,185242,194,448,36,126,43
+REC0225,2023,Jun,Karnataka,Bengaluru,HMIS Portal India,158430,114,1138,167,71,48
+REC0226,2024,Jun,Tamil Nadu,Chennai,HMIS Portal India,195921,762,1118,9,82,5
+REC0227,2025,May,Maharashtra,Mumbai,National Health Mission (NHM),55911,733,1360,179,17,27
+REC0228,2021,Apr,Uttar Pradesh,Varanasi,NFHS Survey,133317,413,992,195,81,44
+REC0229,2024,Feb,Uttar Pradesh,Lucknow,NFHS Survey,92164,775,1228,33,72,31
+REC0230,2025,Apr,Maharashtra,Pune,Smile Foundation,101322,855,1354,78,2,57
+REC0231,2022,Jan,Karnataka,Bengaluru,Smile Foundation,51593,249,267,15,126,18
+REC0232,2021,Jan,Karnataka,Mysuru,HMIS Portal India,54085,719,1075,18,40,76
+REC0233,2024,Apr,Tamil Nadu,Chennai,NFHS Survey,142428,653,272,158,58,32
+REC0234,2024,Apr,Uttar Pradesh,Lucknow,NFHS Survey,142790,268,821,0,144,54
+REC0235,2024,May,Uttar Pradesh,Lucknow,CARE India,153006,338,709,136,114,2
+REC0236,2024,May,Uttar Pradesh,Varanasi,Smile Foundation,182690,681,1314,85,114,15
+REC0237,2021,Mar,Karnataka,Bengaluru,HMIS Portal India,176717,374,493,95,132,41
+REC0238,2023,Feb,Karnataka,Mysuru,HMIS Portal India,164979,843,670,124,118,95
+REC0239,2024,Jun,Uttar Pradesh,Lucknow,CARE India,58603,793,1261,14,16,77
+REC0240,2024,Feb,Uttar Pradesh,Lucknow,WHO India,61909,638,1255,17,124,67
+REC0241,2021,Feb,Karnataka,Mysuru,CARE India,197517,864,337,151,118,80
+REC0242,2021,Jun,Tamil Nadu,Madurai,HMIS Portal India,104465,452,1267,104,66,39
+REC0243,2023,Feb,Uttar Pradesh,Varanasi,WHO India,66847,247,643,136,137,78
+REC0244,2024,May,Maharashtra,Pune,NFHS Survey,193867,473,1126,13,35,89
+REC0245,2023,Feb,Karnataka,Mysuru,Smile Foundation,136336,692,497,168,56,51
+REC0246,2021,Feb,Tamil Nadu,Madurai,WHO India,199865,836,806,181,85,21
+REC0247,2023,Apr,Karnataka,Bengaluru,Smile Foundation,158693,955,1429,45,93,91
+REC0248,2024,Jun,Uttar Pradesh,Varanasi,National Health Mission (NHM),145705,550,1323,132,42,55
+REC0249,2024,Jun,Maharashtra,Mumbai,CARE India,111352,796,448,39,75,94
+REC0250,2022,May,Karnataka,Mysuru,CARE India,158481,514,1326,67,96,89
+REC0251,2025,Jan,Karnataka,Bengaluru,NFHS Survey,118231,1000,856,196,23,31
+REC0252,2021,Jun,Uttar Pradesh,Lucknow,WHO India,183995,674,231,69,60,37
+REC0253,2021,Jun,Tamil Nadu,Chennai,Smile Foundation,137912,861,457,27,98,65
+REC0254,2021,Jan,Tamil Nadu,Madurai,Smile Foundation,186228,462,885,123,107,100
+REC0255,2021,Feb,Uttar Pradesh,Varanasi,CARE India,90507,174,1056,83,148,16
+REC0256,2024,May,Uttar Pradesh,Varanasi,WHO India,93280,269,761,102,53,48
+REC0257,2023,Feb,Tamil Nadu,Madurai,CARE India,138191,451,330,110,42,25
+REC0258,2024,Jun,Karnataka,Mysuru,Doctors For You,58157,687,1312,89,24,76
+REC0259,2023,Apr,Uttar Pradesh,Lucknow,HMIS Portal India,190649,439,553,24,33,94
+REC0260,2021,Jun,Maharashtra,Pune,Doctors For You,57440,442,1319,149,116,29
+REC0261,2021,Mar,Tamil Nadu,Madurai,CARE India,180683,418,425,97,109,24
+REC0262,2021,Jan,Karnataka,Mysuru,WHO India,90374,947,521,80,45,99
+REC0263,2023,Jun,Tamil Nadu,Chennai,Smile Foundation,103190,217,1208,57,95,47
+REC0264,2021,Apr,Tamil Nadu,Madurai,Smile Foundation,190481,723,303,103,13,28
+REC0265,2022,Feb,Tamil Nadu,Madurai,NFHS Survey,184555,427,1490,186,129,93
+REC0266,2025,Apr,Uttar Pradesh,Lucknow,CARE India,103950,956,1202,14,103,57
+REC0267,2021,Jan,Tamil Nadu,Madurai,National Health Mission (NHM),183955,917,1464,29,55,24
+REC0268,2024,Jun,Maharashtra,Pune,HMIS Portal India,135676,588,818,130,120,83
+REC0269,2024,Jan,Uttar Pradesh,Varanasi,Doctors For You,156441,988,641,176,69,71
+REC0270,2022,Apr,Uttar Pradesh,Varanasi,NFHS Survey,107509,381,508,22,110,79
+REC0271,2023,Apr,Tamil Nadu,Madurai,Smile Foundation,136572,437,203,167,42,41
+REC0272,2021,Feb,Tamil Nadu,Madurai,HMIS Portal India,190220,305,1388,190,22,99
+REC0273,2023,Apr,Uttar Pradesh,Lucknow,CARE India,199067,653,1430,0,6,64
+REC0274,2022,Apr,Tamil Nadu,Chennai,CARE India,72593,515,1498,157,90,75
+REC0275,2024,Feb,Tamil Nadu,Chennai,WHO India,87689,965,260,181,124,26
+REC0276,2021,Mar,Tamil Nadu,Chennai,Doctors For You,175463,780,494,30,47,52
+REC0277,2022,Feb,Karnataka,Bengaluru,HMIS Portal India,76294,130,322,87,45,10
+REC0278,2025,Apr,Karnataka,Mysuru,CARE India,167727,624,1165,153,51,66
+REC0279,2024,May,Tamil Nadu,Chennai,WHO India,123699,881,419,189,36,55
+REC0280,2021,Mar,Karnataka,Mysuru,HMIS Portal India,71677,463,609,169,37,20
+REC0281,2023,Jan,Uttar Pradesh,Lucknow,HMIS Portal India,84358,1000,1387,83,2,15
+REC0282,2025,Apr,Tamil Nadu,Chennai,CARE India,82713,655,917,149,2,11
+REC0283,2023,May,Uttar Pradesh,Varanasi,National Health Mission (NHM),165074,784,1289,135,91,26
+REC0284,2025,Apr,Tamil Nadu,Chennai,National Health Mission (NHM),54044,675,1089,151,62,10
+REC0285,2023,May,Uttar Pradesh,Lucknow,NFHS Survey,195285,570,622,85,23,96
+REC0286,2022,Mar,Tamil Nadu,Madurai,Smile Foundation,158723,132,1324,144,53,5
+REC0287,2024,Jun,Karnataka,Mysuru,Smile Foundation,182115,789,914,161,131,78
+REC0288,2025,Apr,Karnataka,Bengaluru,CARE India,60876,411,821,25,25,84
+REC0289,2022,Jun,Karnataka,Bengaluru,HMIS Portal India,116024,507,1159,183,137,41
+REC0290,2024,Jan,Tamil Nadu,Madurai,CARE India,84152,640,445,23,116,91
+REC0291,2021,Feb,Uttar Pradesh,Varanasi,NFHS Survey,69984,156,1300,84,30,30
+REC0292,2021,Jan,Tamil Nadu,Chennai,National Health Mission (NHM),116962,364,1375,85,74,0
+REC0293,2025,Mar,Uttar Pradesh,Lucknow,Doctors For You,190298,867,1166,96,113,99
+REC0294,2023,Apr,Uttar Pradesh,Lucknow,National Health Mission (NHM),59918,557,398,1,143,21
+REC0295,2023,Apr,Tamil Nadu,Madurai,NFHS Survey,107366,456,1348,74,59,86
+REC0296,2024,Jun,Uttar Pradesh,Lucknow,CARE India,144515,767,1071,16,63,78
+REC0297,2021,Jan,Karnataka,Bengaluru,Doctors For You,149150,522,328,75,138,6
+REC0298,2023,Jun,Tamil Nadu,Chennai,WHO India,136400,366,462,83,25,17
+REC0299,2021,Jan,Tamil Nadu,Chennai,Smile Foundation,120614,915,1438,80,63,73
+REC0300,2022,Apr,Karnataka,Bengaluru,CARE India,54114,358,1123,113,129,75
+REC0301,2023,Mar,Tamil Nadu,Chennai,WHO India,187214,329,276,93,111,78
+REC0302,2023,Jan,Tamil Nadu,Madurai,National Health Mission (NHM),111079,630,340,81,122,25
+REC0303,2021,Feb,Tamil Nadu,Madurai,Doctors For You,172636,430,493,81,142,66
+REC0304,2022,Apr,Karnataka,Bengaluru,CARE India,100069,582,306,194,6,90
+REC0305,2025,Mar,Tamil Nadu,Madurai,NFHS Survey,74098,941,1085,105,25,34
+REC0306,2022,Mar,Karnataka,Mysuru,WHO India,118539,211,1346,133,58,50
+REC0307,2022,Jan,Maharashtra,Pune,National Health Mission (NHM),142539,101,339,4,74,56
+REC0308,2022,Jun,Uttar Pradesh,Lucknow,NFHS Survey,55082,502,754,116,93,7
+REC0309,2023,Feb,Maharashtra,Pune,WHO India,120891,735,1207,107,134,42
+REC0310,2025,Jan,Tamil Nadu,Madurai,Doctors For You,176597,183,1421,190,89,38
+REC0311,2023,Feb,Maharashtra,Mumbai,NFHS Survey,188150,831,1319,116,12,6
+REC0312,2023,Feb,Maharashtra,Pune,Smile Foundation,165264,792,1417,173,104,38
+REC0313,2022,May,Maharashtra,Mumbai,NFHS Survey,193021,847,730,200,45,4
+REC0314,2025,Apr,Karnataka,Mysuru,HMIS Portal India,188500,809,1236,28,10,72
+REC0315,2022,Jan,Tamil Nadu,Chennai,Smile Foundation,175434,429,1141,198,42,84
+REC0316,2023,Mar,Uttar Pradesh,Lucknow,CARE India,75408,284,778,28,11,9
+REC0317,2024,Apr,Maharashtra,Mumbai,NFHS Survey,193099,341,915,152,132,63
+REC0318,2023,Mar,Tamil Nadu,Chennai,HMIS Portal India,125672,772,1395,150,37,81
+REC0319,2025,Apr,Tamil Nadu,Madurai,CARE India,150015,712,1053,150,14,99
+REC0320,2024,Jan,Tamil Nadu,Madurai,CARE India,105856,987,281,184,91,57
+REC0321,2023,Jan,Uttar Pradesh,Lucknow,NFHS Survey,59671,624,465,38,120,79
+REC0322,2024,May,Tamil Nadu,Madurai,CARE India,76784,421,245,85,3,40
+REC0323,2022,May,Maharashtra,Pune,WHO India,135456,574,401,170,61,45
+REC0324,2021,Mar,Uttar Pradesh,Lucknow,CARE India,136832,766,1261,163,54,29
+REC0325,2021,Jan,Maharashtra,Mumbai,CARE India,74422,575,1465,110,56,17
+REC0326,2021,Mar,Karnataka,Bengaluru,WHO India,162255,421,727,80,39,88
+REC0327,2025,May,Uttar Pradesh,Lucknow,CARE India,138081,750,1029,7,123,83
+REC0328,2025,Apr,Uttar Pradesh,Varanasi,WHO India,123494,650,886,45,49,75
+REC0329,2024,Feb,Tamil Nadu,Chennai,NFHS Survey,131298,915,276,0,78,10
+REC0330,2021,Jan,Karnataka,Bengaluru,WHO India,56851,222,1409,162,134,74
+REC0331,2024,Feb,Maharashtra,Mumbai,Doctors For You,93998,510,311,129,138,66
+REC0332,2025,Jan,Maharashtra,Mumbai,NFHS Survey,196021,467,485,103,19,25
+REC0333,2023,Jan,Karnataka,Bengaluru,CARE India,156061,375,1069,7,19,31
+REC0334,2025,Feb,Karnataka,Bengaluru,WHO India,152971,494,1196,34,110,6
+REC0335,2023,May,Maharashtra,Pune,National Health Mission (NHM),182965,715,385,124,138,42
+REC0336,2023,May,Karnataka,Bengaluru,National Health Mission (NHM),158544,581,422,99,31,5
+REC0337,2025,Feb,Maharashtra,Pune,CARE India,156904,181,1482,114,25,44
+REC0338,2023,May,Uttar Pradesh,Varanasi,Smile Foundation,184509,811,502,193,21,66
+REC0339,2024,Jan,Tamil Nadu,Madurai,Doctors For You,90296,936,1228,38,28,8
+REC0340,2021,May,Uttar Pradesh,Varanasi,WHO India,90684,943,580,22,124,91
+REC0341,2023,Jun,Karnataka,Mysuru,Doctors For You,147325,335,730,188,141,17
+REC0342,2022,Feb,Maharashtra,Pune,National Health Mission (NHM),176965,196,1394,185,59,41
+REC0343,2022,Mar,Tamil Nadu,Madurai,Smile Foundation,81516,962,926,85,5,90
+REC0344,2022,May,Uttar Pradesh,Varanasi,CARE India,141982,600,780,31,72,9
+REC0345,2023,Mar,Tamil Nadu,Madurai,National Health Mission (NHM),58877,649,924,122,9,17
+REC0346,2025,Apr,Karnataka,Mysuru,CARE India,88261,816,659,197,66,49
+REC0347,2023,Jun,Karnataka,Mysuru,National Health Mission (NHM),120754,781,779,147,19,7
+REC0348,2025,Mar,Tamil Nadu,Chennai,WHO India,117346,506,1392,60,148,12
+REC0349,2024,Apr,Uttar Pradesh,Varanasi,National Health Mission (NHM),154308,924,565,66,25,98
+REC0350,2025,Mar,Karnataka,Bengaluru,CARE India,140117,545,884,36,143,68
+REC0351,2023,Jun,Uttar Pradesh,Varanasi,CARE India,199702,371,349,145,30,2
+REC0352,2021,Mar,Karnataka,Mysuru,WHO India,139062,659,718,46,69,22
+REC0353,2023,Apr,Tamil Nadu,Chennai,National Health Mission (NHM),161018,688,230,178,53,55
+REC0354,2021,Apr,Maharashtra,Pune,HMIS Portal India,70068,198,473,140,105,32
+REC0355,2025,Apr,Tamil Nadu,Chennai,HMIS Portal India,101731,706,298,82,73,69
+REC0356,2025,Jan,Tamil Nadu,Madurai,HMIS Portal India,142912,835,330,193,145,84
+REC0357,2021,May,Maharashtra,Pune,HMIS Portal India,168604,656,1440,66,103,47
+REC0358,2025,Feb,Karnataka,Bengaluru,NFHS Survey,67718,286,1006,68,133,39
+REC0359,2025,May,Uttar Pradesh,Varanasi,CARE India,108742,783,623,22,78,18
+REC0360,2023,Mar,Tamil Nadu,Madurai,HMIS Portal India,99692,568,203,166,143,94
+REC0361,2025,Jun,Maharashtra,Pune,Doctors For You,195780,158,1122,180,145,78
+REC0362,2025,Jan,Uttar Pradesh,Varanasi,National Health Mission (NHM),102927,188,667,4,33,33
+REC0363,2025,Jan,Karnataka,Mysuru,WHO India,68600,809,468,143,122,64
+REC0364,2025,Jan,Karnataka,Mysuru,Smile Foundation,196963,125,727,113,98,73
+REC0365,2022,Jun,Tamil Nadu,Chennai,WHO India,99777,645,1280,120,142,66
+REC0366,2022,Feb,Karnataka,Mysuru,National Health Mission (NHM),90218,747,424,88,136,72
+REC0367,2023,Jan,Tamil Nadu,Chennai,HMIS Portal India,153624,180,1185,27,56,87
+REC0368,2022,Jan,Maharashtra,Pune,Smile Foundation,132861,637,1135,142,144,95
+REC0369,2023,Apr,Karnataka,Mysuru,CARE India,156166,280,571,11,73,59
+REC0370,2023,May,Karnataka,Mysuru,HMIS Portal India,136772,996,502,16,15,31
+REC0371,2021,Jun,Maharashtra,Mumbai,NFHS Survey,96255,385,1135,107,131,1
+REC0372,2024,Jun,Karnataka,Mysuru,Smile Foundation,155218,960,1257,8,146,95
+REC0373,2025,Apr,Uttar Pradesh,Lucknow,National Health Mission (NHM),74561,328,868,133,58,69
+REC0374,2022,Apr,Karnataka,Bengaluru,HMIS Portal India,152250,671,1457,19,72,52
+REC0375,2023,Jan,Uttar Pradesh,Varanasi,WHO India,96216,298,228,186,102,55
+REC0376,2024,Jun,Tamil Nadu,Madurai,CARE India,81282,499,395,33,129,51
+REC0377,2021,Jan,Maharashtra,Pune,Doctors For You,167274,661,758,102,43,28
+REC0378,2021,May,Uttar Pradesh,Varanasi,NFHS Survey,127279,328,979,112,116,91
+REC0379,2022,Mar,Tamil Nadu,Chennai,Smile Foundation,177974,437,1013,198,80,86
+REC0380,2022,Jun,Karnataka,Mysuru,WHO India,162003,895,1032,139,80,5
+REC0381,2023,Jun,Uttar Pradesh,Lucknow,CARE India,189846,264,649,75,103,70
+REC0382,2024,Mar,Tamil Nadu,Chennai,CARE India,125890,848,1427,169,136,51
+REC0383,2022,May,Karnataka,Mysuru,Smile Foundation,72802,421,922,46,134,95
+REC0384,2022,Jun,Uttar Pradesh,Varanasi,WHO India,160334,130,819,179,8,1
+REC0385,2021,Feb,Karnataka,Bengaluru,HMIS Portal India,188708,594,1109,97,45,66
+REC0386,2024,May,Uttar Pradesh,Lucknow,HMIS Portal India,94311,806,1126,64,144,39
+REC0387,2022,Jan,Maharashtra,Mumbai,National Health Mission (NHM),113326,568,495,179,110,88
+REC0388,2021,May,Maharashtra,Mumbai,WHO India,89095,811,279,182,17,60
+REC0389,2025,Feb,Karnataka,Mysuru,WHO India,116845,638,1107,37,111,46
+REC0390,2025,Mar,Maharashtra,Pune,HMIS Portal India,75400,630,673,14,51,27
+REC0391,2021,Mar,Uttar Pradesh,Lucknow,WHO India,135042,310,772,8,99,20
+REC0392,2023,Jun,Tamil Nadu,Chennai,National Health Mission (NHM),97611,483,746,13,85,34
+REC0393,2024,Mar,Uttar Pradesh,Varanasi,NFHS Survey,93257,950,272,14,4,9
+REC0394,2024,May,Maharashtra,Pune,National Health Mission (NHM),160692,218,502,0,120,63
+REC0395,2024,Mar,Uttar Pradesh,Lucknow,National Health Mission (NHM),87493,113,1166,183,85,11
+REC0396,2025,Jan,Uttar Pradesh,Varanasi,Smile Foundation,59173,399,799,48,46,50
+REC0397,2023,Feb,Maharashtra,Pune,NFHS Survey,79977,808,305,122,41,34
+REC0398,2025,Feb,Tamil Nadu,Chennai,Smile Foundation,93944,355,1108,27,104,13
+REC0399,2024,Mar,Tamil Nadu,Chennai,CARE India,53094,524,287,65,93,49
+REC0400,2025,May,Uttar Pradesh,Lucknow,WHO India,171531,694,985,106,63,54
+REC0401,2022,Jan,Maharashtra,Pune,NFHS Survey,87742,609,1041,6,108,66
+REC0402,2023,Apr,Karnataka,Bengaluru,CARE India,61433,508,389,106,69,71
+REC0403,2021,Feb,Maharashtra,Mumbai,Doctors For You,140095,376,526,48,94,81
+REC0404,2023,Mar,Uttar Pradesh,Lucknow,Smile Foundation,133993,462,1195,20,12,15
+REC0405,2021,Jan,Uttar Pradesh,Lucknow,WHO India,131374,744,984,114,127,64
+REC0406,2021,Feb,Tamil Nadu,Madurai,HMIS Portal India,148847,427,447,54,92,36
+REC0407,2021,Feb,Tamil Nadu,Madurai,National Health Mission (NHM),157720,604,490,83,7,70
+REC0408,2022,Jun,Karnataka,Mysuru,NFHS Survey,50947,604,407,89,49,57
+REC0409,2025,May,Tamil Nadu,Madurai,WHO India,148296,716,295,138,136,44
+REC0410,2023,Feb,Tamil Nadu,Chennai,WHO India,188316,679,529,1,3,45
+REC0411,2023,Jan,Karnataka,Bengaluru,Doctors For You,142698,584,664,162,77,15
+REC0412,2021,Jan,Karnataka,Mysuru,WHO India,68185,294,1347,92,11,64
+REC0413,2025,Jun,Tamil Nadu,Chennai,WHO India,78489,735,702,38,142,84
+REC0414,2022,Jun,Tamil Nadu,Chennai,Smile Foundation,74997,718,1241,92,134,80
+REC0415,2023,May,Karnataka,Mysuru,Smile Foundation,158618,622,921,78,5,78
+REC0416,2021,Jun,Karnataka,Bengaluru,HMIS Portal India,160743,491,1415,65,48,32
+REC0417,2022,Jun,Maharashtra,Pune,Smile Foundation,55037,569,1194,13,103,56
+REC0418,2024,Mar,Uttar Pradesh,Varanasi,WHO India,83790,694,1423,38,89,68
+REC0419,2024,Jun,Uttar Pradesh,Varanasi,National Health Mission (NHM),163291,849,1315,138,48,62
+REC0420,2021,May,Maharashtra,Mumbai,National Health Mission (NHM),139101,908,269,58,82,20
+REC0421,2023,Mar,Maharashtra,Pune,WHO India,66779,921,588,128,77,39
+REC0422,2025,Jan,Maharashtra,Pune,HMIS Portal India,105386,683,1065,19,113,78
+REC0423,2021,Mar,Uttar Pradesh,Varanasi,CARE India,183166,301,1265,177,82,99
+REC0424,2025,Mar,Uttar Pradesh,Lucknow,WHO India,130752,824,1338,67,150,43
+REC0425,2025,Jun,Karnataka,Mysuru,NFHS Survey,51966,905,411,124,53,78
+REC0426,2022,Jun,Tamil Nadu,Chennai,HMIS Portal India,70966,814,365,38,44,38
+REC0427,2022,May,Karnataka,Mysuru,Doctors For You,170121,583,1175,96,23,47
+REC0428,2023,Feb,Maharashtra,Mumbai,HMIS Portal India,194200,918,1017,151,106,85
+REC0429,2023,May,Karnataka,Mysuru,Smile Foundation,191320,582,914,44,19,4
+REC0430,2024,Jan,Uttar Pradesh,Varanasi,National Health Mission (NHM),50428,162,1080,125,129,60
+REC0431,2023,Mar,Maharashtra,Mumbai,HMIS Portal India,77215,980,843,30,101,76
+REC0432,2021,Feb,Karnataka,Bengaluru,WHO India,108396,214,221,185,124,51
+REC0433,2024,Apr,Tamil Nadu,Chennai,WHO India,93953,866,240,158,130,2
+REC0434,2025,Feb,Maharashtra,Pune,NFHS Survey,131941,172,1474,71,71,2
+REC0435,2022,Jan,Karnataka,Mysuru,WHO India,142923,289,803,11,126,16
+REC0436,2023,Jun,Tamil Nadu,Chennai,HMIS Portal India,154537,867,1477,131,58,21
+REC0437,2021,Feb,Maharashtra,Pune,CARE India,108568,942,1046,159,70,62
+REC0438,2025,May,Uttar Pradesh,Lucknow,CARE India,124480,685,435,18,115,1
+REC0439,2021,May,Tamil Nadu,Chennai,Doctors For You,134047,851,914,98,50,47
+REC0440,2024,Mar,Uttar Pradesh,Varanasi,Doctors For You,109125,173,502,190,60,96
+REC0441,2025,Apr,Tamil Nadu,Madurai,CARE India,90295,821,1186,197,23,98
+REC0442,2024,Feb,Maharashtra,Pune,WHO India,168857,510,1117,33,38,74
+REC0443,2021,Mar,Maharashtra,Pune,HMIS Portal India,142320,321,676,28,58,3
+REC0444,2025,May,Maharashtra,Pune,National Health Mission (NHM),142056,203,1360,75,29,77
+REC0445,2021,Feb,Maharashtra,Mumbai,National Health Mission (NHM),98554,434,954,55,7,83
+REC0446,2023,Jun,Uttar Pradesh,Lucknow,Smile Foundation,187042,211,693,93,49,34
+REC0447,2024,Jan,Tamil Nadu,Madurai,WHO India,100690,950,1191,101,45,44
+REC0448,2024,Jan,Uttar Pradesh,Varanasi,Smile Foundation,144180,388,1495,65,79,68
+REC0449,2022,Jan,Maharashtra,Mumbai,WHO India,119838,889,646,167,2,71
+REC0450,2024,May,Uttar Pradesh,Varanasi,HMIS Portal India,70796,474,1092,17,29,38
+REC0451,2024,Feb,Uttar Pradesh,Varanasi,NFHS Survey,147794,666,750,48,21,1
+REC0452,2021,Jan,Tamil Nadu,Chennai,HMIS Portal India,115789,469,910,133,119,86
+REC0453,2021,Mar,Uttar Pradesh,Varanasi,WHO India,99929,523,964,108,148,84
+REC0454,2021,Mar,Tamil Nadu,Chennai,HMIS Portal India,74613,893,600,25,18,76
+REC0455,2022,Apr,Maharashtra,Mumbai,CARE India,81033,529,945,22,69,22
+REC0456,2024,Jan,Maharashtra,Pune,NFHS Survey,94580,541,1352,162,31,1
+REC0457,2021,Feb,Karnataka,Bengaluru,WHO India,110489,657,958,47,113,43
+REC0458,2023,May,Maharashtra,Pune,Smile Foundation,78346,897,1025,34,53,42
+REC0459,2021,Jun,Maharashtra,Pune,NFHS Survey,139648,525,1423,44,114,4
+REC0460,2023,Jun,Uttar Pradesh,Varanasi,Doctors For You,120031,666,453,108,39,64
+REC0461,2022,May,Karnataka,Bengaluru,HMIS Portal India,163315,234,1446,165,138,96
+REC0462,2025,Jun,Tamil Nadu,Madurai,NFHS Survey,136587,720,1204,100,124,29
+REC0463,2022,Jun,Maharashtra,Mumbai,HMIS Portal India,193839,618,1175,89,28,55
+REC0464,2024,Mar,Tamil Nadu,Madurai,National Health Mission (NHM),86215,936,850,186,24,17
+REC0465,2024,Jun,Tamil Nadu,Madurai,National Health Mission (NHM),132021,930,379,124,68,44
+REC0466,2022,Jan,Uttar Pradesh,Varanasi,National Health Mission (NHM),184906,674,1016,140,15,96
+REC0467,2021,Jan,Karnataka,Mysuru,Doctors For You,110300,403,613,136,100,48
+REC0468,2025,Feb,Tamil Nadu,Madurai,National Health Mission (NHM),79798,166,544,82,11,91
+REC0469,2022,Mar,Maharashtra,Pune,NFHS Survey,82491,440,635,12,0,79
+REC0470,2023,May,Karnataka,Bengaluru,HMIS Portal India,160899,945,961,115,58,50
+REC0471,2024,Jun,Maharashtra,Mumbai,Smile Foundation,127311,136,475,116,25,15
+REC0472,2021,Feb,Uttar Pradesh,Lucknow,WHO India,73494,618,552,31,108,18
+REC0473,2023,Apr,Tamil Nadu,Madurai,HMIS Portal India,124294,242,655,56,11,72
+REC0474,2022,May,Karnataka,Mysuru,WHO India,68021,727,1129,69,136,35
+REC0475,2024,Mar,Karnataka,Mysuru,HMIS Portal India,74126,571,417,95,73,56
+REC0476,2021,May,Maharashtra,Pune,WHO India,99561,952,1296,149,57,93
+REC0477,2023,Jun,Uttar Pradesh,Lucknow,NFHS Survey,96459,611,1377,173,49,26
+REC0478,2025,Apr,Uttar Pradesh,Varanasi,National Health Mission (NHM),90011,110,692,37,101,21
+REC0479,2025,Jun,Tamil Nadu,Chennai,WHO India,197552,686,263,19,0,60
+REC0480,2023,Apr,Uttar Pradesh,Varanasi,Smile Foundation,119651,260,1057,74,94,57
+REC0481,2023,Apr,Uttar Pradesh,Lucknow,HMIS Portal India,88375,302,511,88,102,96
+REC0482,2022,Mar,Tamil Nadu,Chennai,National Health Mission (NHM),125990,967,1356,113,46,100
+REC0483,2025,Jun,Uttar Pradesh,Lucknow,Smile Foundation,68627,473,764,169,27,0
+REC0484,2025,May,Uttar Pradesh,Lucknow,Smile Foundation,169797,123,416,3,143,47
+REC0485,2023,Feb,Uttar Pradesh,Lucknow,Smile Foundation,140363,495,598,53,76,63
+REC0486,2021,Apr,Uttar Pradesh,Lucknow,WHO India,183682,595,206,94,35,19
+REC0487,2022,Mar,Maharashtra,Pune,HMIS Portal India,104188,950,755,82,136,74
+REC0488,2024,Feb,Maharashtra,Mumbai,WHO India,146555,853,1432,89,41,20
+REC0489,2025,Mar,Maharashtra,Pune,WHO India,103713,726,265,88,72,23
+REC0490,2021,Apr,Tamil Nadu,Chennai,Smile Foundation,85121,490,1481,49,49,59
+REC0491,2023,Mar,Maharashtra,Pune,Doctors For You,77236,390,807,21,49,84
+REC0492,2025,May,Maharashtra,Mumbai,National Health Mission (NHM),184155,774,1458,16,85,5
+REC0493,2024,May,Uttar Pradesh,Varanasi,National Health Mission (NHM),60180,215,533,3,110,63
+REC0494,2022,Jan,Uttar Pradesh,Varanasi,NFHS Survey,78602,293,396,111,86,18
+REC0495,2022,Mar,Uttar Pradesh,Varanasi,NFHS Survey,166321,368,336,104,70,94
+REC0496,2024,Apr,Maharashtra,Pune,NFHS Survey,76466,166,1443,187,77,26
+REC0497,2024,May,Tamil Nadu,Chennai,Doctors For You,87318,525,1225,170,46,82
+REC0498,2022,Mar,Uttar Pradesh,Varanasi,HMIS Portal India,76704,376,1117,190,10,31
+REC0499,2021,Feb,Karnataka,Mysuru,Doctors For You,139109,412,1354,125,124,22
+REC0500,2022,May,Maharashtra,Pune,Doctors For You,163559,519,336,85,3,81
+REC0501,2022,Jan,Tamil Nadu,Chennai,Doctors For You,72140,343,1441,72,25,30
+REC0502,2024,Jun,Uttar Pradesh,Lucknow,Doctors For You,97785,643,1123,53,100,3
+REC0503,2023,Jan,Uttar Pradesh,Varanasi,National Health Mission (NHM),160005,747,1057,93,104,58
+REC0504,2023,Jun,Tamil Nadu,Madurai,CARE India,130210,805,1210,0,36,14
+REC0505,2022,Jan,Karnataka,Mysuru,CARE India,69462,202,714,75,49,41
+REC0506,2025,Apr,Karnataka,Bengaluru,Smile Foundation,96849,798,290,126,73,3
+REC0507,2025,Apr,Karnataka,Bengaluru,Doctors For You,84826,555,954,176,140,50
+REC0508,2024,Jan,Tamil Nadu,Chennai,HMIS Portal India,175396,170,508,143,68,43
+REC0509,2023,Mar,Maharashtra,Pune,CARE India,73825,246,1297,19,61,27
+REC0510,2025,Jun,Maharashtra,Pune,NFHS Survey,180723,104,519,78,9,20
+REC0511,2023,Jun,Maharashtra,Pune,NFHS Survey,181232,982,975,160,111,35
+REC0512,2025,Apr,Maharashtra,Mumbai,Doctors For You,130990,626,277,133,71,77
+REC0513,2022,Apr,Tamil Nadu,Madurai,Doctors For You,115828,887,254,23,60,27
+REC0514,2022,Jan,Karnataka,Bengaluru,CARE India,162135,991,218,192,103,41
+REC0515,2025,Mar,Tamil Nadu,Madurai,HMIS Portal India,171332,766,676,175,2,93
+REC0516,2021,Jan,Maharashtra,Mumbai,NFHS Survey,77517,392,1309,137,121,35
+REC0517,2024,Feb,Tamil Nadu,Chennai,CARE India,197085,861,729,77,108,11
+REC0518,2024,May,Uttar Pradesh,Varanasi,NFHS Survey,196984,793,720,161,32,83
+REC0519,2021,Apr,Tamil Nadu,Madurai,NFHS Survey,163451,234,1197,78,124,5
+REC0520,2025,Jan,Karnataka,Mysuru,National Health Mission (NHM),62366,646,1498,137,37,30
+REC0521,2021,Apr,Uttar Pradesh,Lucknow,National Health Mission (NHM),114995,820,1331,182,109,38
+REC0522,2021,Apr,Maharashtra,Pune,HMIS Portal India,153899,615,1379,32,36,75
+REC0523,2025,Jun,Uttar Pradesh,Varanasi,CARE India,199065,249,301,99,7,25
+REC0524,2022,Jan,Karnataka,Bengaluru,CARE India,145920,725,523,171,96,73
+REC0525,2023,Jun,Tamil Nadu,Chennai,NFHS Survey,159075,895,788,140,108,32
+REC0526,2022,May,Tamil Nadu,Chennai,WHO India,142501,971,489,5,87,65
+REC0527,2024,May,Uttar Pradesh,Varanasi,NFHS Survey,92281,942,1177,173,118,62
+REC0528,2021,May,Karnataka,Mysuru,Doctors For You,134073,709,1483,21,130,78
+REC0529,2025,Jun,Uttar Pradesh,Varanasi,Smile Foundation,130018,362,630,190,148,11
+REC0530,2024,Mar,Uttar Pradesh,Varanasi,Smile Foundation,124815,568,536,123,24,68
+REC0531,2025,Apr,Karnataka,Bengaluru,Doctors For You,52707,604,1276,27,67,27
+REC0532,2021,Feb,Tamil Nadu,Chennai,WHO India,60203,666,902,140,140,33
+REC0533,2025,Jun,Uttar Pradesh,Lucknow,Smile Foundation,82935,544,931,143,113,29
+REC0534,2025,Apr,Karnataka,Bengaluru,National Health Mission (NHM),188404,874,984,13,4,72
+REC0535,2023,May,Maharashtra,Mumbai,Doctors For You,97653,821,220,117,128,46
+REC0536,2021,May,Uttar Pradesh,Lucknow,National Health Mission (NHM),189484,488,598,36,46,80
+REC0537,2021,Mar,Karnataka,Mysuru,NFHS Survey,81191,331,618,8,58,96
+REC0538,2024,Jun,Tamil Nadu,Chennai,National Health Mission (NHM),135611,875,658,186,11,29
+REC0539,2023,May,Maharashtra,Pune,WHO India,119779,154,628,178,68,88
+REC0540,2021,Feb,Uttar Pradesh,Varanasi,Smile Foundation,192719,346,1071,149,18,9
+REC0541,2024,Jun,Uttar Pradesh,Varanasi,CARE India,73884,358,335,27,120,69
+REC0542,2024,Mar,Karnataka,Mysuru,WHO India,57591,443,564,176,148,52
+REC0543,2021,Feb,Uttar Pradesh,Varanasi,Doctors For You,173204,255,624,199,104,77
+REC0544,2022,Jan,Uttar Pradesh,Varanasi,HMIS Portal India,195274,974,579,116,90,84
+REC0545,2021,Jan,Uttar Pradesh,Lucknow,HMIS Portal India,141202,371,232,95,52,73
+REC0546,2023,Jun,Uttar Pradesh,Lucknow,CARE India,64977,319,1200,16,104,49
+REC0547,2021,May,Karnataka,Mysuru,NFHS Survey,119960,762,1343,91,144,0
+REC0548,2025,May,Tamil Nadu,Madurai,HMIS Portal India,134318,334,734,22,36,3
+REC0549,2022,May,Karnataka,Bengaluru,NFHS Survey,63218,540,201,94,72,7
+REC0550,2023,May,Tamil Nadu,Madurai,HMIS Portal India,163302,824,676,111,119,81
+REC0551,2021,Jun,Karnataka,Bengaluru,NFHS Survey,120207,130,1464,94,82,4
+REC0552,2023,Feb,Tamil Nadu,Madurai,National Health Mission (NHM),51549,411,322,156,118,13
+REC0553,2023,May,Tamil Nadu,Madurai,National Health Mission (NHM),138409,694,813,151,128,59
+REC0554,2021,Jan,Karnataka,Bengaluru,WHO India,93611,850,961,83,107,26
+REC0555,2022,Jan,Tamil Nadu,Madurai,CARE India,150257,149,960,24,120,27
+REC0556,2025,Apr,Uttar Pradesh,Varanasi,NFHS Survey,85822,475,997,139,16,88
+REC0557,2025,Jun,Uttar Pradesh,Lucknow,WHO India,130069,742,295,132,39,70
+REC0558,2025,Mar,Maharashtra,Mumbai,HMIS Portal India,134096,485,1080,175,4,40
+REC0559,2024,May,Maharashtra,Mumbai,Doctors For You,166978,125,844,91,79,98
+REC0560,2021,Feb,Karnataka,Bengaluru,HMIS Portal India,112961,564,876,200,104,22
+REC0561,2024,Jun,Maharashtra,Mumbai,Doctors For You,155341,128,890,38,135,13
+REC0562,2025,Mar,Uttar Pradesh,Lucknow,National Health Mission (NHM),183454,819,1220,40,36,79
+REC0563,2024,Mar,Tamil Nadu,Madurai,NFHS Survey,50039,175,509,152,53,79
+REC0564,2024,May,Karnataka,Mysuru,NFHS Survey,121352,991,395,138,134,35
+REC0565,2021,Apr,Maharashtra,Mumbai,National Health Mission (NHM),149518,913,517,183,62,62
+REC0566,2021,Jan,Maharashtra,Mumbai,NFHS Survey,180847,222,1334,125,74,77
+REC0567,2024,Jun,Tamil Nadu,Chennai,National Health Mission (NHM),174096,436,662,121,34,78
+REC0568,2021,Jun,Tamil Nadu,Madurai,NFHS Survey,110246,978,330,126,61,2
+REC0569,2023,Jan,Uttar Pradesh,Lucknow,Doctors For You,86000,894,868,76,135,6
+REC0570,2022,Jun,Tamil Nadu,Chennai,Smile Foundation,86637,400,955,156,18,46
+REC0571,2023,Apr,Karnataka,Mysuru,Doctors For You,154297,152,753,185,27,41
+REC0572,2025,Apr,Tamil Nadu,Chennai,HMIS Portal India,108186,881,1335,82,53,91
+REC0573,2024,Feb,Tamil Nadu,Madurai,Smile Foundation,117128,979,665,21,125,69
+REC0574,2023,May,Tamil Nadu,Madurai,Doctors For You,100493,315,449,87,5,47
+REC0575,2023,May,Tamil Nadu,Chennai,Smile Foundation,60999,413,1105,188,0,4
+REC0576,2022,Feb,Uttar Pradesh,Lucknow,Smile Foundation,87831,140,1128,154,25,28
+REC0577,2023,Apr,Uttar Pradesh,Varanasi,Smile Foundation,96812,569,1016,42,16,49
+REC0578,2022,Jun,Tamil Nadu,Madurai,Smile Foundation,90788,670,736,56,143,85
+REC0579,2023,Jan,Maharashtra,Pune,CARE India,160248,624,1285,8,91,4
+REC0580,2022,Jan,Karnataka,Bengaluru,CARE India,178150,768,1450,151,61,13
+REC0581,2021,Jun,Maharashtra,Pune,Smile Foundation,70178,327,826,74,39,49
+REC0582,2025,Jan,Tamil Nadu,Chennai,HMIS Portal India,113420,884,1431,171,136,77
+REC0583,2024,Feb,Maharashtra,Pune,Doctors For You,197897,876,420,27,37,91
+REC0584,2025,May,Maharashtra,Mumbai,NFHS Survey,63760,395,1431,147,19,45
+REC0585,2023,Mar,Uttar Pradesh,Lucknow,WHO India,100998,857,464,129,34,92
+REC0586,2021,May,Tamil Nadu,Chennai,National Health Mission (NHM),169394,434,349,175,146,91
+REC0587,2021,Apr,Uttar Pradesh,Varanasi,HMIS Portal India,117095,329,1490,74,106,1
+REC0588,2023,Mar,Karnataka,Mysuru,Smile Foundation,133334,248,514,99,16,96
+REC0589,2021,Jan,Uttar Pradesh,Varanasi,CARE India,103927,463,1199,28,37,44
+REC0590,2023,Feb,Tamil Nadu,Chennai,NFHS Survey,194369,567,301,129,23,35
+REC0591,2021,Mar,Tamil Nadu,Madurai,Doctors For You,74582,345,922,156,86,22
+REC0592,2024,Mar,Karnataka,Mysuru,Doctors For You,54684,528,1037,65,146,25
+REC0593,2021,Apr,Maharashtra,Pune,HMIS Portal India,197310,752,1231,14,35,17
+REC0594,2023,Jun,Uttar Pradesh,Varanasi,Doctors For You,107811,957,1117,14,80,74
+REC0595,2021,Apr,Tamil Nadu,Madurai,HMIS Portal India,199901,842,453,5,38,34
+REC0596,2023,Jan,Maharashtra,Mumbai,Smile Foundation,158411,985,298,152,30,2
+REC0597,2022,Feb,Karnataka,Mysuru,Doctors For You,104665,605,350,123,81,99
+REC0598,2023,Mar,Maharashtra,Pune,HMIS Portal India,73025,701,474,162,95,50
+REC0599,2021,Apr,Tamil Nadu,Madurai,HMIS Portal India,76000,673,212,191,80,31
+REC0600,2024,Jan,Maharashtra,Pune,National Health Mission (NHM),127334,743,1452,158,135,88
+REC0601,2021,May,Maharashtra,Mumbai,NFHS Survey,193815,321,491,117,130,62
+REC0602,2022,Mar,Karnataka,Mysuru,Doctors For You,102875,681,669,141,83,99
+REC0603,2023,Jun,Tamil Nadu,Madurai,HMIS Portal India,98288,534,355,172,100,18
+REC0604,2023,Feb,Maharashtra,Pune,National Health Mission (NHM),164232,971,754,114,111,48
+REC0605,2022,Mar,Karnataka,Mysuru,WHO India,112273,326,782,69,114,67
+REC0606,2023,Mar,Uttar Pradesh,Lucknow,Doctors For You,138437,655,324,52,96,12
+REC0607,2021,Apr,Uttar Pradesh,Lucknow,Smile Foundation,95448,364,583,180,86,47
+REC0608,2025,Apr,Karnataka,Mysuru,HMIS Portal India,118472,103,214,47,139,40
+REC0609,2025,May,Tamil Nadu,Madurai,Smile Foundation,77261,653,1428,74,60,76
+REC0610,2024,May,Maharashtra,Mumbai,CARE India,163764,931,1257,200,50,18
+REC0611,2025,May,Uttar Pradesh,Lucknow,NFHS Survey,176581,706,1325,197,117,6
+REC0612,2025,Mar,Maharashtra,Pune,NFHS Survey,76336,803,689,51,78,77
+REC0613,2023,Apr,Uttar Pradesh,Varanasi,Doctors For You,181388,821,602,61,86,96
+REC0614,2023,Jun,Karnataka,Mysuru,HMIS Portal India,120275,242,222,82,136,93
+REC0615,2022,Feb,Uttar Pradesh,Varanasi,National Health Mission (NHM),52431,888,919,9,89,73
+REC0616,2023,May,Karnataka,Bengaluru,National Health Mission (NHM),58205,468,1033,170,98,57
+REC0617,2025,Mar,Tamil Nadu,Chennai,Doctors For You,184435,634,675,187,43,94
+REC0618,2024,Jun,Tamil Nadu,Madurai,HMIS Portal India,85161,539,697,107,10,31
+REC0619,2023,Jan,Uttar Pradesh,Lucknow,WHO India,115368,870,1059,91,74,16
+REC0620,2021,Mar,Maharashtra,Pune,HMIS Portal India,78253,592,735,183,121,28
+REC0621,2023,Jan,Uttar Pradesh,Varanasi,National Health Mission (NHM),135662,573,672,60,45,5
+REC0622,2025,Jun,Uttar Pradesh,Lucknow,NFHS Survey,91913,116,248,87,104,8
+REC0623,2024,Jan,Maharashtra,Mumbai,WHO India,80025,559,1395,125,140,85
+REC0624,2023,Apr,Maharashtra,Mumbai,National Health Mission (NHM),185852,299,918,51,112,10
+REC0625,2024,Jan,Uttar Pradesh,Lucknow,WHO India,149094,326,677,157,69,37
+REC0626,2025,Apr,Karnataka,Bengaluru,CARE India,152121,352,224,24,137,69
+REC0627,2021,May,Uttar Pradesh,Lucknow,National Health Mission (NHM),169832,728,896,139,122,54
+REC0628,2024,Apr,Maharashtra,Mumbai,Doctors For You,134137,692,517,113,1,88
+REC0629,2022,Mar,Karnataka,Bengaluru,HMIS Portal India,102984,426,1497,114,32,21
+REC0630,2025,Mar,Tamil Nadu,Chennai,HMIS Portal India,141904,587,472,96,26,24
+REC0631,2022,Jan,Karnataka,Bengaluru,NFHS Survey,60678,466,653,10,116,86
+REC0632,2025,Jan,Uttar Pradesh,Varanasi,Smile Foundation,133341,624,1174,37,149,43
+REC0633,2024,Mar,Maharashtra,Pune,WHO India,147334,677,1416,171,7,52
+REC0634,2021,Jan,Maharashtra,Pune,NFHS Survey,166501,543,910,150,70,87
+REC0635,2021,Jan,Tamil Nadu,Chennai,Smile Foundation,87675,451,962,0,59,24
+REC0636,2024,Jan,Tamil Nadu,Madurai,Smile Foundation,102323,476,1313,130,83,46
+REC0637,2025,Mar,Karnataka,Bengaluru,Smile Foundation,155476,217,1499,117,12,19
+REC0638,2022,Jun,Tamil Nadu,Madurai,NFHS Survey,132385,369,548,140,4,71
+REC0639,2024,Feb,Tamil Nadu,Chennai,WHO India,57082,590,1222,169,76,70
+REC0640,2024,Jan,Maharashtra,Mumbai,National Health Mission (NHM),77617,866,1345,49,57,61
+REC0641,2024,Apr,Maharashtra,Mumbai,CARE India,196066,509,1207,166,43,29
+REC0642,2022,May,Maharashtra,Mumbai,National Health Mission (NHM),82264,775,1313,50,82,88
+REC0643,2022,Mar,Tamil Nadu,Chennai,WHO India,55882,991,1210,88,62,19
+REC0644,2023,Apr,Maharashtra,Pune,WHO India,155743,506,1063,181,49,38
+REC0645,2024,Apr,Tamil Nadu,Chennai,NFHS Survey,106168,176,613,172,143,57
+REC0646,2023,Jan,Tamil Nadu,Chennai,Smile Foundation,158474,864,1431,166,98,41
+REC0647,2021,Feb,Tamil Nadu,Madurai,HMIS Portal India,130974,809,989,105,134,90
+REC0648,2024,Jun,Maharashtra,Pune,HMIS Portal India,73579,776,1040,46,131,50
+REC0649,2025,Jun,Uttar Pradesh,Varanasi,National Health Mission (NHM),161519,291,793,109,41,69
+REC0650,2024,Apr,Maharashtra,Mumbai,CARE India,193361,728,936,14,32,56
+REC0651,2025,May,Uttar Pradesh,Varanasi,CARE India,116762,107,1496,193,131,81
+REC0652,2022,Jun,Tamil Nadu,Chennai,NFHS Survey,107744,117,345,105,119,35
+REC0653,2021,Mar,Karnataka,Bengaluru,National Health Mission (NHM),166868,870,815,80,149,67
+REC0654,2022,Mar,Karnataka,Mysuru,NFHS Survey,77938,332,406,151,20,41
+REC0655,2022,Mar,Uttar Pradesh,Varanasi,HMIS Portal India,176258,641,576,110,34,27
+REC0656,2021,Apr,Uttar Pradesh,Varanasi,National Health Mission (NHM),68652,684,1065,133,113,16
+REC0657,2024,Apr,Karnataka,Bengaluru,HMIS Portal India,77854,681,1361,194,27,87
+REC0658,2023,Jan,Karnataka,Mysuru,CARE India,101947,665,282,108,132,7
+REC0659,2021,Jun,Karnataka,Mysuru,National Health Mission (NHM),77024,279,260,115,120,11
+REC0660,2021,Apr,Maharashtra,Mumbai,Smile Foundation,148648,144,271,127,58,34
+REC0661,2024,Jun,Uttar Pradesh,Varanasi,National Health Mission (NHM),115475,414,1177,156,79,55
+REC0662,2021,Apr,Uttar Pradesh,Varanasi,WHO India,140509,566,252,82,33,26
+REC0663,2025,Apr,Uttar Pradesh,Varanasi,Doctors For You,122980,705,848,182,81,21
+REC0664,2022,Jun,Maharashtra,Pune,NFHS Survey,137629,670,1021,35,58,97
+REC0665,2025,May,Uttar Pradesh,Varanasi,National Health Mission (NHM),155929,303,739,84,133,22
+REC0666,2023,Apr,Uttar Pradesh,Lucknow,NFHS Survey,60095,968,502,28,127,60
+REC0667,2025,Apr,Maharashtra,Pune,CARE India,134030,444,1466,113,130,5
+REC0668,2024,Jun,Uttar Pradesh,Varanasi,Smile Foundation,176331,503,425,96,144,18
+REC0669,2025,Jun,Karnataka,Bengaluru,NFHS Survey,199173,176,588,99,40,0
+REC0670,2025,Jun,Tamil Nadu,Madurai,NFHS Survey,134481,539,854,177,121,33
+REC0671,2024,Feb,Tamil Nadu,Madurai,Doctors For You,140179,613,841,114,36,85
+REC0672,2021,Mar,Tamil Nadu,Madurai,HMIS Portal India,196931,130,1258,105,121,69
+REC0673,2021,Feb,Uttar Pradesh,Varanasi,Smile Foundation,97786,112,464,92,40,19
+REC0674,2021,Mar,Uttar Pradesh,Varanasi,WHO India,163436,250,1258,72,112,46
+REC0675,2024,May,Uttar Pradesh,Lucknow,National Health Mission (NHM),77057,192,665,146,21,88
+REC0676,2023,May,Maharashtra,Mumbai,Smile Foundation,133753,359,736,184,87,69
+REC0677,2025,Jan,Maharashtra,Mumbai,NFHS Survey,69486,786,1430,2,86,9
+REC0678,2024,Jan,Maharashtra,Mumbai,National Health Mission (NHM),127934,671,441,83,14,48
+REC0679,2024,Mar,Maharashtra,Mumbai,Doctors For You,74937,783,838,126,79,85
+REC0680,2025,Mar,Maharashtra,Pune,Doctors For You,130447,343,280,169,77,11
+REC0681,2021,Feb,Karnataka,Mysuru,National Health Mission (NHM),97930,275,1430,24,4,100
+REC0682,2022,Apr,Uttar Pradesh,Lucknow,Smile Foundation,141789,533,997,178,119,75
+REC0683,2021,Feb,Karnataka,Mysuru,National Health Mission (NHM),108925,948,1137,166,144,78
+REC0684,2023,Apr,Maharashtra,Pune,Smile Foundation,111044,405,385,75,36,88
+REC0685,2025,Mar,Uttar Pradesh,Lucknow,HMIS Portal India,107099,764,716,187,38,61
+REC0686,2022,Jun,Karnataka,Mysuru,WHO India,186138,988,289,46,82,13
+REC0687,2021,Apr,Uttar Pradesh,Lucknow,NFHS Survey,125451,254,1432,101,131,44
+REC0688,2022,Jun,Tamil Nadu,Madurai,Smile Foundation,104943,393,948,194,67,91
+REC0689,2023,Feb,Uttar Pradesh,Lucknow,NFHS Survey,162084,528,316,32,8,84
+REC0690,2021,Feb,Maharashtra,Pune,Smile Foundation,148644,910,1154,167,23,26
+REC0691,2024,Mar,Maharashtra,Mumbai,Smile Foundation,188776,368,715,121,21,63
+REC0692,2024,Jan,Tamil Nadu,Madurai,NFHS Survey,133296,299,348,77,3,20
+REC0693,2024,Mar,Uttar Pradesh,Lucknow,NFHS Survey,140326,703,914,161,140,99
+REC0694,2022,Apr,Uttar Pradesh,Varanasi,NFHS Survey,113878,553,1100,115,39,38
+REC0695,2024,Mar,Tamil Nadu,Madurai,HMIS Portal India,54181,455,352,90,69,74
+REC0696,2025,May,Karnataka,Bengaluru,WHO India,119018,894,757,130,17,59
+REC0697,2021,Mar,Tamil Nadu,Chennai,Smile Foundation,64572,831,495,46,13,21
+REC0698,2024,May,Maharashtra,Pune,WHO India,175186,114,991,12,90,77
+REC0699,2021,Apr,Maharashtra,Mumbai,HMIS Portal India,117637,166,501,160,121,99
+REC0700,2024,Jun,Uttar Pradesh,Varanasi,HMIS Portal India,116339,477,807,123,21,55
+REC0701,2022,Jan,Karnataka,Mysuru,WHO India,91053,498,1028,93,4,2
+REC0702,2024,May,Karnataka,Bengaluru,Smile Foundation,117970,674,1422,182,130,59
+REC0703,2022,Jun,Tamil Nadu,Madurai,Doctors For You,122147,125,588,23,30,52
+REC0704,2023,Feb,Tamil Nadu,Chennai,Smile Foundation,119166,429,675,169,139,96
+REC0705,2022,Apr,Karnataka,Mysuru,NFHS Survey,77891,866,762,68,122,78
+REC0706,2025,Jan,Tamil Nadu,Chennai,WHO India,110094,755,698,105,62,1
+REC0707,2021,Feb,Karnataka,Bengaluru,National Health Mission (NHM),189603,551,1315,35,24,35
+REC0708,2021,Mar,Karnataka,Bengaluru,NFHS Survey,122507,842,222,155,28,44
+REC0709,2021,Mar,Karnataka,Bengaluru,NFHS Survey,188564,241,393,179,102,81
+REC0710,2023,Apr,Uttar Pradesh,Lucknow,NFHS Survey,134929,635,1009,126,61,15
+REC0711,2023,Mar,Tamil Nadu,Chennai,NFHS Survey,112966,980,878,179,50,62
+REC0712,2025,Feb,Maharashtra,Mumbai,Doctors For You,182380,473,999,15,133,64
+REC0713,2023,Jan,Maharashtra,Mumbai,NFHS Survey,164445,802,414,200,109,28
+REC0714,2025,Apr,Karnataka,Bengaluru,Doctors For You,82387,695,1223,10,137,86
+REC0715,2021,May,Tamil Nadu,Chennai,National Health Mission (NHM),73719,619,993,23,137,36
+REC0716,2025,Jan,Karnataka,Mysuru,NFHS Survey,106718,833,533,94,86,11
+REC0717,2025,Jun,Uttar Pradesh,Lucknow,Smile Foundation,175445,894,204,112,139,15
+REC0718,2025,May,Tamil Nadu,Chennai,CARE India,111499,186,426,102,122,20
+REC0719,2022,Feb,Karnataka,Mysuru,WHO India,104521,228,340,53,147,71
+REC0720,2022,Feb,Karnataka,Mysuru,National Health Mission (NHM),50170,919,895,19,113,15
+REC0721,2021,Feb,Uttar Pradesh,Lucknow,CARE India,80434,325,1307,84,43,36
+REC0722,2022,Apr,Tamil Nadu,Chennai,National Health Mission (NHM),171290,413,1014,163,44,96
+REC0723,2021,Mar,Karnataka,Bengaluru,WHO India,86269,443,331,164,61,15
+REC0724,2025,Feb,Tamil Nadu,Chennai,WHO India,125311,111,937,24,91,28
+REC0725,2023,Feb,Uttar Pradesh,Varanasi,CARE India,141578,300,398,137,79,61
+REC0726,2025,Apr,Tamil Nadu,Chennai,Doctors For You,103015,671,515,151,7,0
+REC0727,2024,Jun,Karnataka,Mysuru,Doctors For You,179253,402,305,134,101,70
+REC0728,2022,Mar,Karnataka,Bengaluru,Smile Foundation,176574,418,1106,88,124,29
+REC0729,2022,Jun,Maharashtra,Mumbai,CARE India,172653,188,482,60,132,5
+REC0730,2023,Jun,Uttar Pradesh,Lucknow,WHO India,196040,307,1336,66,65,50
+REC0731,2024,Jun,Maharashtra,Mumbai,NFHS Survey,115548,743,294,163,52,65
+REC0732,2022,May,Tamil Nadu,Chennai,Smile Foundation,189756,633,1421,137,41,18
+REC0733,2024,Mar,Karnataka,Bengaluru,HMIS Portal India,180764,537,737,179,39,79
+REC0734,2021,Jun,Maharashtra,Pune,National Health Mission (NHM),143690,492,1099,116,108,20
+REC0735,2023,Mar,Karnataka,Bengaluru,HMIS Portal India,71632,721,1494,44,116,29
+REC0736,2025,Feb,Maharashtra,Mumbai,Doctors For You,79824,139,279,83,113,47
+REC0737,2021,Jun,Tamil Nadu,Madurai,National Health Mission (NHM),132556,135,432,195,16,73
+REC0738,2022,Feb,Uttar Pradesh,Lucknow,Doctors For You,99085,336,1156,199,38,98
+REC0739,2023,Mar,Tamil Nadu,Chennai,HMIS Portal India,131345,189,784,112,79,8
+REC0740,2025,Jan,Maharashtra,Pune,National Health Mission (NHM),164852,347,873,2,48,82
+REC0741,2025,Jan,Uttar Pradesh,Lucknow,WHO India,166162,432,1159,85,125,88
+REC0742,2025,Apr,Karnataka,Mysuru,Smile Foundation,172592,278,1216,73,131,38
+REC0743,2021,Apr,Maharashtra,Pune,WHO India,77808,330,1373,96,104,80
+REC0744,2023,Jan,Karnataka,Bengaluru,CARE India,56761,806,1429,47,124,26
+REC0745,2023,Feb,Uttar Pradesh,Varanasi,Smile Foundation,50559,288,1062,1,25,71
+REC0746,2022,Jan,Maharashtra,Pune,HMIS Portal India,62067,518,1298,15,95,15
+REC0747,2023,Jun,Uttar Pradesh,Lucknow,Smile Foundation,62489,227,1132,84,62,7
+REC0748,2022,May,Tamil Nadu,Chennai,Doctors For You,159883,746,1455,54,89,30
+REC0749,2023,Feb,Uttar Pradesh,Varanasi,CARE India,142187,540,1455,147,110,92
+REC0750,2022,Apr,Maharashtra,Mumbai,HMIS Portal India,165222,446,1319,166,1,60
+REC0751,2021,Jun,Uttar Pradesh,Lucknow,Smile Foundation,172619,939,749,104,44,63
+REC0752,2021,Mar,Karnataka,Mysuru,HMIS Portal India,119623,428,1427,176,62,66
+REC0753,2023,Apr,Karnataka,Mysuru,NFHS Survey,153010,492,1370,81,143,52
+REC0754,2021,Feb,Maharashtra,Mumbai,CARE India,174756,257,649,136,71,64
+REC0755,2025,Feb,Tamil Nadu,Madurai,Smile Foundation,164669,236,922,72,84,71
+REC0756,2021,Apr,Uttar Pradesh,Lucknow,NFHS Survey,106517,924,1086,13,117,33
+REC0757,2023,Apr,Karnataka,Bengaluru,WHO India,115474,874,581,56,54,20
+REC0758,2021,Mar,Tamil Nadu,Chennai,CARE India,59244,304,618,31,54,71
+REC0759,2024,Jun,Uttar Pradesh,Varanasi,Smile Foundation,184200,138,820,88,46,29
+REC0760,2024,Jan,Karnataka,Bengaluru,Doctors For You,50694,852,210,167,121,51
+REC0761,2024,Jan,Tamil Nadu,Chennai,WHO India,91149,692,825,129,113,23
+REC0762,2022,Jun,Karnataka,Bengaluru,NFHS Survey,141460,536,818,87,70,14
+REC0763,2021,Jan,Uttar Pradesh,Lucknow,National Health Mission (NHM),199705,396,456,53,128,11
+REC0764,2023,Mar,Tamil Nadu,Chennai,National Health Mission (NHM),87882,768,847,142,111,24
+REC0765,2022,Jan,Tamil Nadu,Chennai,NFHS Survey,120533,620,667,79,52,41
+REC0766,2024,Mar,Maharashtra,Pune,National Health Mission (NHM),183347,585,597,166,111,45
+REC0767,2025,Feb,Tamil Nadu,Madurai,Doctors For You,99380,646,989,145,146,71
+REC0768,2023,May,Tamil Nadu,Madurai,WHO India,62461,160,1021,143,58,84
+REC0769,2022,Mar,Tamil Nadu,Chennai,National Health Mission (NHM),59497,919,448,53,49,38
+REC0770,2022,May,Tamil Nadu,Chennai,HMIS Portal India,82970,452,712,126,48,59
+REC0771,2021,Apr,Uttar Pradesh,Lucknow,WHO India,56873,532,548,95,149,85
+REC0772,2021,Jan,Karnataka,Mysuru,Smile Foundation,161323,142,932,24,118,88
+REC0773,2021,Jan,Karnataka,Mysuru,Doctors For You,58467,988,1365,103,136,47
+REC0774,2022,Mar,Tamil Nadu,Chennai,NFHS Survey,104878,835,583,110,140,13
+REC0775,2022,Feb,Uttar Pradesh,Varanasi,National Health Mission (NHM),161955,935,316,65,23,71
+REC0776,2024,May,Maharashtra,Pune,NFHS Survey,175720,844,365,162,82,38
+REC0777,2025,Apr,Maharashtra,Pune,Doctors For You,193719,456,1212,151,50,41
+REC0778,2024,May,Tamil Nadu,Chennai,Smile Foundation,175333,356,1207,148,71,49
+REC0779,2025,May,Maharashtra,Pune,Smile Foundation,111790,802,613,194,100,36
+REC0780,2024,Jan,Karnataka,Bengaluru,Doctors For You,73916,514,256,71,71,21
+REC0781,2023,Mar,Tamil Nadu,Madurai,WHO India,180126,255,821,185,12,61
+REC0782,2024,Mar,Tamil Nadu,Chennai,Smile Foundation,144468,358,500,136,143,31
+REC0783,2025,Feb,Uttar Pradesh,Lucknow,Smile Foundation,56034,981,1405,107,87,72
+REC0784,2025,Mar,Tamil Nadu,Madurai,WHO India,171941,144,482,41,14,70
+REC0785,2022,May,Tamil Nadu,Madurai,Doctors For You,98014,665,1339,91,48,18
+REC0786,2023,Apr,Tamil Nadu,Madurai,WHO India,187241,213,1044,125,49,99
+REC0787,2022,Feb,Maharashtra,Pune,Smile Foundation,189515,839,960,117,44,64
+REC0788,2021,Feb,Tamil Nadu,Madurai,CARE India,91234,205,1296,40,135,17
+REC0789,2025,Jan,Karnataka,Bengaluru,CARE India,193379,322,990,197,91,91
+REC0790,2023,Jan,Maharashtra,Pune,National Health Mission (NHM),169363,104,300,1,28,10
+REC0791,2025,May,Karnataka,Mysuru,NFHS Survey,180422,459,837,149,4,16
+REC0792,2024,May,Maharashtra,Pune,NFHS Survey,53371,197,829,3,95,28
+REC0793,2023,Feb,Maharashtra,Pune,WHO India,83621,813,297,124,60,61
+REC0794,2024,Feb,Karnataka,Bengaluru,National Health Mission (NHM),117460,279,250,122,76,54
+REC0795,2021,Jun,Karnataka,Bengaluru,Doctors For You,123628,888,939,150,22,5
+REC0796,2022,Feb,Tamil Nadu,Chennai,Doctors For You,153862,837,655,6,48,26
+REC0797,2024,May,Uttar Pradesh,Varanasi,Doctors For You,142029,836,647,52,4,41
+REC0798,2024,May,Tamil Nadu,Madurai,NFHS Survey,133566,843,686,162,12,97
+REC0799,2021,Jan,Karnataka,Mysuru,HMIS Portal India,100465,443,632,173,70,16
+REC0800,2024,Jun,Tamil Nadu,Madurai,Smile Foundation,50275,128,616,9,149,37
