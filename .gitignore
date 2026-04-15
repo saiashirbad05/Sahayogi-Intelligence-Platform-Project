@@ -37,14 +37,3 @@ out/
 
 # Data generator outputs that might be too large
 # src/data/bulk_entities.ts (keeping this for now as it's part of the core project)
-
-# Large archives
-*.zip
-
-# Temp/debug files
-*.txt
-temp_deploy/
-build.log
-lint_output.*
-ts.log
-typescript_errors.log
