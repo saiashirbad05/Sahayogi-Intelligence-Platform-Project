@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.git/
+.netlify/
+*.log
+*.zip
+temp_deploy/
+public/data/
+public/pdfs/

@@ -1,0 +1,14 @@
+node_modules
+dist
+.git
+.netlify
+build_errors.txt
+build_logs.txt
+build_logs_utf8.txt
+build_output.txt
+build_output_v2.txt
+build_output_v3.txt
+build_output_v4.txt
+lint_output.json
+lint_output.txt
+*.log

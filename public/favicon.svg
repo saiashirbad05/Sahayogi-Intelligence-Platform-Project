@@ -1,0 +1,35 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path id="textPath" d="M 100, 15 a 85,85 0 1,1 -0.1,0" />
+  </defs>
+  
+  <ellipse cx="100" cy="30" rx="30" ry="60" fill="#E8793A" transform="rotate(0 100 100)" />
+  <ellipse cx="100" cy="30" rx="30" ry="60" fill="#D4A820" transform="rotate(45 100 100)" />
+  <ellipse cx="100" cy="30" rx="30" ry="60" fill="#E8793A" transform="rotate(90 100 100)" />
+  <ellipse cx="100" cy="30" rx="30" ry="60" fill="#D4A820" transform="rotate(135 100 100)" />
+  <ellipse cx="100" cy="30" rx="30" ry="60" fill="#E8793A" transform="rotate(180 100 100)" />
+  <ellipse cx="100" cy="30" rx="30" ry="60" fill="#D4A820" transform="rotate(225 100 100)" />
+  <ellipse cx="100" cy="30" rx="30" ry="60" fill="#E8793A" transform="rotate(270 100 100)" />
+  <ellipse cx="100" cy="30" rx="30" ry="60" fill="#D4A820" transform="rotate(315 100 100)" />
+
+  <circle cx="100" cy="100" r="70" fill="#1A1F4E" stroke="#2F3880" strokeWidth="3" />
+  
+  <path d="M 100 30 A 35 70 0 0 0 100 170 A 35 70 0 0 0 100 30" fill="none" stroke="#2F3880" strokeWidth="2" />
+  <path d="M 100 30 A 70 70 0 0 0 100 170 A 70 70 0 0 0 100 30" fill="none" stroke="#2F3880" strokeWidth="2" />
+  <line x1="30" y1="100" x2="170" y2="100" stroke="#2F3880" strokeWidth="2" />
+  
+  <circle cx="100" cy="70" r="10" fill="#E8793A" />
+  <path d="M 85 105 Q 100 80 115 105 L 108 112 L 92 112 Z" fill="#E8793A" />
+  
+  <circle cx="65" cy="130" r="10" fill="#9BA4EF" />
+  <path d="M 50 165 Q 65 140 80 165 L 73 172 L 57 172 Z" fill="#9BA4EF" />
+  
+  <circle cx="135" cy="130" r="10" fill="#D4A820" />
+  <path d="M 120 165 Q 135 140 150 165 L 143 172 L 127 172 Z" fill="#D4A820" />
+
+  <text fontSize="9" fill="#D4A820" letterSpacing="1.5" fontWeight="600">
+    <textPath href="#textPath" startOffset="50%" textAnchor="middle">
+      ✦ VASUDHAIVA KUTUMBAKAM ✦ THE WORLD IS ONE FAMILY ✦
+    </textPath>
+  </text>
+</svg>
