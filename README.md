@@ -2,7 +2,7 @@
 
 ### **National Impact Intelligence & Community Risk Coordination**
 
-![Mission Hero](public/images/dash_risk.png)
+![Mission Hero](public/images/impact_hero.jpg)
 
 ## 📌 Vision
 The **Sahayogi Intelligence Platform** is a professional "Command Center" designed for high-fidelity community risk intelligence and humanitarian coordination. Built on a robust Vite/React/TypeScript stack, it synchronizes a verified national registry of **50,000+ organizations** with real-time field intelligence to empower coordinators, volunteers, and tactical responders.
