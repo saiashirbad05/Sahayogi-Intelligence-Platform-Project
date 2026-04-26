@@ -1,95 +1,125 @@
-# 🛡️ Sahayogi Intelligence Platform
+# Sahayogi — Community Risk Intelligence Platform
 
-### **National Impact Intelligence & Community Risk Coordination**
+> NGOs in rural India are drowning in paper surveys and delayed reports. By the time risk data reaches anyone who can act on it, the window for response has already closed. Sahayogi fixes that.
 
-![Mission Hero](public/images/impact_hero.jpg)
-
-## 📌 Vision
-The **Sahayogi Intelligence Platform** is a professional "Command Center" designed for high-fidelity community risk intelligence and humanitarian coordination. Built on a robust Vite/React/TypeScript stack, it synchronizes a verified national registry of **50,000+ organizations** with real-time field intelligence to empower coordinators, volunteers, and tactical responders.
-
----
-
-## ⚡ Key Intelligence Suites
-
-### 1. **Verified National Registry**
-- **50,000+ Organizations**: A curated ecosystem of NGOs, NPOs, and field volunteers.
-- **Pehchaan Integration**: Deep indexing of verified impact records with high-fidelity visual documentation.
-- **Dynamic Exploration**: Multi-tier filtering by region, specialty, and impact rating.
-
-### 2. **AI-Powered Command Console (Sahayogi Bot)**
-- **Gemini 2.0 Integration**: Real-time analysis of field surveys and registry data using state-of-the-art LLMs.
-- **Intelligence Briefings**: Daily tactical summaries of resource gaps, signal drifts, and coordination successes.
-- **Data Vitality Sidebar**: Real-time tracking of registry synchronization and risk report vitality.
-
-### 3. **Tactical Surveillance & Risk Mapping**
-- **Interactive India Risk Map**: Geospatial visualization of "Need Scores" and regional urgency.
-- **Urgent Area Intelligence**: Staggered cards highlighting critical zones requiring immediate resource deployment.
-- **Field Surveys**: Direct intake of community-level risk reports synchronized with a secure backend.
-
-### 4. **Standardized Identity Ecosystem**
-- **Professional Proofing**: Automated generation of digital "Field Identity Proofs" for verified organizations.
-- **Mission Documentation**: High-fidelity image galleries demonstrating on-ground impact.
+**Live app** → [sahayogi-platform-361086288497.us-central1.run.app](https://sahayogi-platform-361086288497.us-central1.run.app)  
+**Demo video** → [youtu.be/GSjsHuSuTTY](https://youtu.be/GSjsHuSuTTY)  
+**Trained files / reports** → [storage.googleapis.com/sahayogi-reports](https://storage.googleapis.com/sahayogi-reports)
 
 ---
 
-## 🎨 Design & Motion Signature
-The platform adheres to a **"Mission Ready"** aesthetic, inspired by high-fidelity dashboard design principles (Emil Kowalski style):
-- **Smooth Motion**: System-wide transition tokens (`--ease-expo`) and staggered entry animations.
-- **Vibrant Brand Fidelity**: 100% accurate brand representation for global partners (Google, GitHub, Supabase).
-- **Responsive Command Interface**: Glassmorphism, premium dark-mode hero sections, and matte-finish tactical grids.
+## What it does
+
+Field workers upload a CSV survey file. Gemini AI reads every row, flags bad data, and either rejects the file with specific error details or approves it for the registry. Once the data is in, Gemini generates a village-wise action plan — what to deploy, in what order, with urgency tags — in seconds.
+
+NGO coordinators get a live risk dashboard. No more waiting for someone to manually compile a report.
+
+It also works offline. Remote villages often have no connectivity. The PWA caches what it needs so field workers can still access reports and submit data when the internet comes back.
 
 ---
 
-## 🛠️ Technology Stack
-- **Frontend**: [React 19](https://react.dev/), [Vite 8](https://vitejs.dev/), [TypeScript](https://www.typescriptlang.org/)
-- **Motion**: [Framer Motion](https://www.framer.com/motion/)
-- **Intelligence**: [Google Gemini AI Studio](https://aistudio.google.com/)
-- **Database**: [Supabase](https://supabase.com/) (Real-time Sync & Auth)
-- **Styling**: Vanilla CSS with modern Flex/Grid and Custom Motion Tokens.
+## Who it's for
+
+- **Field workers** uploading community survey data from the ground
+- **NGO coordinators** monitoring risk across multiple villages
+- **District-level responders** who need prioritized action plans fast
 
 ---
 
-## 🚀 Getting Started
+## What's inside
 
-### 1. Prerequisites
-- Node.js (v18+)
-- npm / yarn
-- Supabase Project & Google Gemini API Key
+**50,000+ verified organizations** in a searchable national registry — NGOs, NPOs, field volunteers — filterable by region, specialty, and impact rating.
 
-### 2. Installation
+**Gemini AI audit layer** that scans uploaded CSVs before anything touches the database. Bad data gets caught here, not three steps later.
+
+**Village-wise action plans** generated from validated survey data. Not generic advice — specific interventions (flood relief kits, water purification, health camps) with timelines per village.
+
+**Interactive India risk map** showing need scores by region so coordinators see where attention is needed at a glance.
+
+**Field identity proofs** auto-generated for verified organizations — useful for coordination with government bodies and partner NGOs.
+
+---
+
+## Tech stack
+
+| Layer | What we used |
+|---|---|
+| Frontend | React, TypeScript, Vite 8.5, HTML, CSS, JS |
+| AI | Gemini API (audit + action plan generation) |
+| Backend | Python |
+| Auth | Google OAuth |
+| Database | Supabase (PostgreSQL, real-time) |
+| Storage | Google Cloud Storage |
+| Hosting | Google Cloud Run |
+| CI/CD | Cloud Build + Artifact Registry |
+| Offline | Workbox service workers (PWA) |
+| Motion | Framer Motion |
+| Maps | React Simple Maps |
+
+---
+
+## Running it locally
+
+**Prerequisites:** Node.js v18+, a Supabase project, a Gemini API key
+
 ```bash
 git clone https://github.com/your-org/sahayogi-platform
 cd sahayogi-platform
 npm install
 ```
 
-### 3. Environment Configuration
-Create a `.env` file in the root:
+Create a `.env` file:
+
 ```env
 VITE_SUPABASE_URL=your_supabase_url
-VITE_SUPABASE_ANON_KEY=your_supabase_key
+VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
 VITE_GEMINI_API_KEY=your_gemini_api_key
 ```
 
-### 4. Deployment
 ```bash
-npm run dev    # Start Development Server
-npm run build  # Production Build
+npm run dev      # development server
+npm run build    # production build
 ```
 
 ---
 
-## 📂 Project Architecture
-The platform follows a professional modular architecture:
-- `src/components`: Centralized UI components (exported via `index.ts`).
-- `src/pages`: Application routes (Home, Dashboard, Explore, etc.).
-- `src/lib`: Core infrastructure (Supabase, Image Resolution, AI Engine).
-- `src/types`: Standardized TypeScript interfaces for NGOs and Volunteers.
-- `src/data`: Bulk datasets including the 50,000+ record registry.
+## Project structure
+
+```
+src/
+├── components/   # UI components (exported via index.ts)
+├── pages/        # Routes — Home, Dashboard, Explore, etc.
+├── lib/          # Core logic — Supabase client, AI engine, image resolution
+├── types/        # TypeScript interfaces for NGOs and volunteers
+└── data/         # Registry datasets (50,000+ records)
+```
 
 ---
 
-## 🛡️ Ethical Mission Statement
-Sahayogi is designed strictly for **Humanitarian Coordination and Community Protection**. Use of this data is governed by the principles of privacy, accuracy, and the protection of vulnerable populations.
+## Deployment
 
-**Mission Ready. Community First.**
+The app runs on Google Cloud Run, built via Cloud Build and pushed to Artifact Registry. Deployment uses Kaniko with no-cache builds to avoid stale layers.
+
+The GCS bucket at `storage.googleapis.com/sahayogi-reports` holds trained files, PDFs, and exported reports — all cached by the Workbox service worker for offline access.
+
+---
+
+## What's next
+
+- Regional language support (Odia, Hindi, Bengali) for field workers
+- Android app with native offline data collection and GPS-tagged submissions
+- Predictive risk modeling trained on historical village survey data
+- Inter-NGO resource sharing and coordination dashboard
+- Government disaster management API integration
+- IoT sensor feeds (flood level, air quality, soil moisture) into the risk engine
+
+---
+
+## Ethics
+
+Sahayogi handles data about vulnerable communities. All data is governed by principles of privacy, accuracy, and protection of the people it's meant to serve. The platform is built for humanitarian coordination — nothing else.
+
+---
+
+Built for **Google Solution Challenge 2026**.  
+Community first.
